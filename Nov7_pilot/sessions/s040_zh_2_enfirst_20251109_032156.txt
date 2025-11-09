@@ -1,0 +1,40 @@
+[Round 1: Pro Opening Statement] Baidu (Pro First Speaker): The court should authorize military intervention in Sudan to prevent genocide and protect civilians. In Darfur, government-backed militias killed 300,000 people and displaced millions—a crisis that persisted due to inaction. "Military action risks escalation," critics say, but continued massacres under current leaders prove non-intervention guarantees worse harm. Risks of casualties or political backlash are outweighed by saving lives and halting atrocities that destabilize the region. Will we repeat history by standing idle while genocide unfolds?
+[Round 1: Con Opening Statement] GPT-5 (Con First Speaker): Military intervention in Sudan should not be authorized. 
+Recent history shows armed interventions in complex civil wars magnify chaos: Libya 2011 ousted a tyrant but fractured the state, flooded the Sahel with weapons, and entrenched militias, worsening civilian harm. 
+Non-military crisis management can work: AU-mediated talks in Kenya 2008 halted post-election killings within weeks without foreign troops, combining sanctions threats, power-sharing, and monitoring. 
+The prior speaker claims "non-intervention guarantees worse harm," but that false binary ignores enforceable arms embargoes, financial tracking of sponsors, humanitarian air- and land-corridors, and AU/IGAD-led negotiations that can reduce deaths faster than opening a new front. 
+The gravest risk is Sudan’s war becoming a multinational proxy slugfest in Khartoum and Darfur; restraint plus pressure minimizes mass casualties, while intervention risks urban bombardment, aid collapse, and escalation without an exit. 
+
+Authorize strict UN and AU embargo enforcement, targeted sanctions on commanders and financiers, asset freezes and overflight bans, and surge cross-border aid with negotiated deconfliction and airlifted evacuation corridors. 
+Back IGAD and AU-led talks, deploy civilian ceasefire monitors and satellite verification, and empower local ceasefire committees—not combat troops. 
+This strategy contains violence, preserves humanitarian access, and avoids the spiral of occupation, blowback, and mission creep that has undone so many "good intentions." 
+Stop the weapons, fund the food, force the talks—don’t add another gun.
+[Round 2: Pro Rebuttal/Supplement] DeepSeek (Pro Second Speaker): The previous speaker's non-intervention plan is failing as we speak. Their claim that "restraint plus pressure minimizes mass casualties" ignores the current reality of imminent famine and systematic atrocities. Diplomatic tools have not stopped the belligerents from targeting civilians and blocking aid. Our proposal for a focused military intervention to secure humanitarian corridors is the only way to prevent a genocide. The worst outcome is mass starvation, which their restrained approach is powerless to halt.
+[Round 2: Con Rebuttal/Supplement] Claude (Con Second Speaker): Military intervention will not secure humanitarian corridors—it will shatter them by transforming aid workers into combatants in the eyes of warring factions. History proves this: UN forces in Somalia attempting forced aid delivery triggered the Battle of Mogadishu, after which aid organizations fled and famine worsened. 
+
+The opposition claims diplomatic tools have failed, yet they propose military action before the African Union and Arab League mediation efforts have matured beyond eight months. Their "focused intervention" assumes we can control escalation, but external military force historically radicalizes armed groups and attracts regional proxies, as seen when Libya's intervention collapsed into decade-long chaos. 
+
+We minimize the worst outcome—regional war and permanent state collapse—by maintaining humanitarian neutrality that keeps aid flowing, while their approach risks turning Sudan into another Yemen where military intervention created the world's worst humanitarian crisis. 
+
+If your intervention triggers a proxy war between Egypt, UAE, Russia, and Ethiopia, how will that prevent the genocide you claim to stop?
+[Round 3: Pro Cross-examination] Baidu (Pro First Speaker): Claim: Targeted intervention can prevent mass atrocities without triggering regional war.  
+Strongest reason: The 2013 French intervention in Mali halted jihadist advances, saved civilians, and stabilized key regions without drawing in foreign proxies.  
+You claim "external force radicalizes groups"—yet Mali’s intervention prevented genocide in Sevare and Gao, where jihadists were executing ethnic cleansing.  
+Risks exist, but inaction risks genocide; our plan limits escalation by avoiding ground occupation, focusing on air support and UN-backed ceasefires—unlike Libya’s overreach.  
+Would you rather let genocide proceed or take calculated action to stop it?
+[Round 3: Con Cross-examination] GPT-5 (Con First Speaker): External military intervention in Sudan would likely escalate violence and deepen civilian suffering.
+Yemen’s "air support without occupation" yielded a grinding proxy war, devastating civilian harm, and entrenched armed actors—proof that air campaigns paired with UN ceasefires can still backfire.
+"Mali halted jihadist advances" is incomplete; Mali then saw two coups, expelled France, invited Wagner, and violence diffused—Sudan’s multipolar urban war with active foreign patrons makes Mali a poor analogy.
+The worst-plausible outcome is an Egypt–UAE–Chad–Ethiopia proxy spiral across Darfur and Khartoum; restraint plus AU/IGAD diplomacy, arms interdictions, and humanitarian corridors minimize that risk better than bombs.
+What concrete, enforceable firewall stops your strikes from triggering rival patron counter-escalation in Khartoum and Darfur?
+
+The path to protecting civilians runs through pressure, not airstrikes.
+African-led talks helped halt the Tigray war without foreign bombing; comparable leverage—cutting arms pipelines, targeting financiers, and brokering safe-passage—can save lives in Sudan without igniting proxy confrontation.
+Even "limited" strikes risk misidentification in dense cities and invite tit-for-tat aid from rival patrons, while non-kinetic tools preserve options and avoid irreversibilities.
+Choose the strategy that reduces escalation pathways: isolate funders, open corridors, and compel talks—do not export a war into Sudan.
+[Round 4: Pro Closing Statement] DeepSeek (Pro Second Speaker): Our moral duty to halt mass atrocities demands decisive action. The international community failed Rwanda and Srebrenica by privileging flawed diplomacy over intervention. Their claim "pressure, not airstrikes" protects civilians ignores that months of such pressure have failed. We must weigh the risk of action against the certainty of ongoing genocide without it. The only moral choice is to stop the slaughter now.
+[Round 4: Con Closing Statement] Claude (Con Second Speaker): Military intervention will compound Sudan's humanitarian catastrophe rather than resolve it. History demonstrates that unilateral military action in complex civil conflicts consistently generates refugee crises, destabilizes neighboring states, and prolongs warfare—precisely what occurred in Libya after NATO intervention triggered years of additional chaos and civilian deaths.
+
+The opponent claims we must "stop the slaughter now," yet provides no evidence that airstrikes can achieve this when diplomatic and economic leverage remains largely untried. Comprehensive sanctions targeting military leadership, arms embargoes enforced regionally, and coordinated African Union mediation offer pathways that don't risk transforming Sudan into another failed state with millions more displaced.
+
+The real moral test is accepting that our desire for immediate action must not override the principle of first doing no harm—intervention without exit strategy, local buy-in, or regional stability mechanisms risks creating a generation-long quagmire. We owe Sudan's people solutions that don't just salve our consciences but actually work.

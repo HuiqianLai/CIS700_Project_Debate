@@ -1,0 +1,34 @@
+[Round 1: Pro Opening Statement] GPT-5 (Pro First Speaker): 我们主张，为了球队整体利益，应当把该球员排除在决赛圈名单之外。
+世界杯是短期高压赛会，半伤或扰乱秩序者会放大负效应；1998年雅凯顶住舆论不用坎通纳、吉诺拉，换来稳定结构并最终夺冠。
+对方会说“最好的球员必须上场”，但2022年葡萄牙让C罗替补后团队更流畅，说明战术契合与纪律优先于大牌。
+权衡之下：排除的代价是少了瞬间灵光；纳入的最坏是更衣室分裂、媒体风暴与战术变形，我们最小化尾部风险。
+你愿意把整个团队的秩序与赛果，押注在一个不确定个体上吗？
+
+我们追求的是可执行的整体方案，而非个人叙事。
+历史与经验皆示警：带着隐患进赛会，往往酿成系统性失败。
+以球队为本，优先健康、纪律与战术匹配，才能稳定发挥上限。
+结论明确：为球队利益，排除该球员。
+[Round 1: Con Opening Statement] Baidu (Con First Speaker): Excluding the player risks sacrificing proven talent for hypothetical risks, undermining the team's competitive edge. France 2018 included Pogba despite media drama, and he delivered key moments in the final. "排除的代价是少了瞬间灵光"—but that "灵光" won matches when structure faltered. Including him aligns with tactical flexibility; excluding him assumes worst-case scenarios without evidence. Would you discard a match-winner for a crisis that may never materialize?
+[Round 2: Pro Rebuttal/Supplement] DeepSeek (Pro Second Speaker): Our priority must be team cohesion over individual stardom. France's 2018 victory was built on a unified squad, not Pogba's individual moment. You claim "that '灵光' won matches," but one moment cannot justify season-long disruption. The worst plausible outcome is a fractured team environment crippling our entire campaign. Sacrificing one player's potential moment secures the collective strength needed to win.
+[Round 2: Con Rebuttal/Supplement] Claude (Con Second Speaker): Excluding a top player guarantees weaker performance, while team issues remain manageable through proper leadership. History proves elite talent is irreplaceable: Argentina nearly failed to qualify for 2014 without Messi, yet thrived when he played despite internal tensions. You claim "one moment cannot justify season-long disruption," but you assume disruption is inevitable rather than a coaching failure to manage personalities. The worst plausible outcome on your side is facing elimination because we voluntarily weakened ourselves, surrendering our competitive advantage before the tournament even begins. Why would we preemptively accept mediocrity when the actual problem is management, not the player's presence?
+[Round 3: Pro Cross-examination] GPT-5 (Pro First Speaker): Excluding the destabilizing star maximizes the team's chance of surviving a short, unforgiving tournament.
+2010 France kept Anelka; one locker-room rupture triggered a player strike and group-stage exit; leadership couldn't contain it once inside the bubble.
+You say "management, not the player's presence," but elite managers repeatedly fail under World Cup constraints: limited prep, daily media pressure, and roster lock amplify small frictions into crises.
+Our trade-off is a marginal talent drop for cohesion; your worst case is a red card, suspension, or mutiny after lists are frozen, forcing us to play shorthanded with a fractured dressing room.
+Given those asymmetries, can you guarantee this player won't implode when there's no time or tools left to fix it?
+
+Knockout tournaments reward reliability over volatility; removing the flashpoint lowers systemic risk.
+France 1998 won after leaving Cantona out, prioritizing structure over star aura.
+Uruguay 2014 kept Suarez; his bite brought a long ban and destabilization they couldn't absorb.
+Why gamble the entire campaign on the person most likely to make it explode?
+[Round 3: Con Cross-examination] Baidu (Con First Speaker): Claim: Excluding the player based on fear of volatility risks greater harm by weakening the team’s competitive edge.  
+
+2018 France won with Griezmann, a star who demanded changes mid-tournament. Management adapted, and cohesion followed talent.  
+
+You say “knockout tournaments reward reliability over volatility,” but 2018 Croatia reached the final with Modric’s flair driving wins—not cautious structure.  
+
+Risk tradeoff: Removing the player sacrifices match-winning ability for hypothetical stability. A fractured locker room is avoidable with leadership, not blanket exclusion.  
+
+Can you guarantee a cohesive team without a star won’t implode under pressure when goals dry up?
+[Round 4: Pro Closing Statement] DeepSeek (Pro Second Speaker): Our position minimizes the worst-case outcome of a team torn apart from within. History shows team chemistry is paramount; France's 1998 win with a unified squad over a fragmented 2010 one proves this. They claim "leadership, not blanket exclusion" can fix this. But leadership has limits against a disruptive force, risking a catastrophic team implosion on the world's biggest stage. Sacrificing one star's volatility is a necessary price to secure the foundation of a united team.
+[Round 4: Con Closing Statement] Claude (Con Second Speaker): Excluding a top player based on hypothetical disruption sacrifices proven championship potential for speculative team harmony benefits. The opposition's France 2010 example actually supports us—that collapse stemmed from management failures and systemic issues, not one player's inclusion, while their 2022 success included volatile personalities managed effectively. They claim "sacrificing one star's volatility" is necessary, but this assumes leadership incompetence and ignores that exclusion itself fractures team morale by signaling panic over capability. The worst plausible outcome isn't disruption—it's losing the tournament because we benched our best weapon based on fear rather than evidence, a decision no coach could justify when elimination becomes permanent. Will you really tell fans you prioritized comfort over competitiveness when the trophy slips away?

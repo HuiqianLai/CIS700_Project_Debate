@@ -1,0 +1,38 @@
+[Round 1: Pro Opening Statement] Baidu (Pro First Speaker): Our claim is that reactionary EMS regulation is more practical and effective. After a major incident, investigators can identify systemic flaws that would be missed by proactive checks. Critics say "prevention is cheaper," but vague standards waste resources chasing non-issues. Reactive enforcement focuses on real harm, avoiding overregulation that strains budgets. Would you rather fix proven failures or gamble on unverified risks?
+[Round 1: Con Opening Statement] GPT-5 (Con First Speaker): Proactive EMS regulation is ethically imperative and operationally superior. 
+Systems that pre-position PPE, maintain drug supply integrity, and drill surge protocols kept crews safe and services running during early COVID, while reactive peers lost staff and service capacity as they investigated what went wrong. 
+You claim to "fix proven failures," but EMS failures kill in minutes; cardiac arrests, anaphylaxis, and airway mishaps leave no second chance, which is why proactive dispatcher CPR, naloxone carriage, and airway checks became standards before local body counts forced them. 
+Yes, proactive rules risk some compliance costs or false alarms, but reactive enforcement accepts preventable death, litigation, reputational collapse, and workforce attrition—the worst plausible outcome—while our approach caps harm by hardwiring minimum training, equipment, maintenance, and oversight before stress exposes gaps. 
+If you wait for harm to validate each requirement, which grieving family volunteers to be your data point?
+
+EMS is a high-reliability domain where latent hazards accumulate invisibly. 
+Proactive regulation turns unknowns into checklists, drills, and redundancy before chaos strikes. 
+Reactive enforcement learns the right lessons at the wrong time—after avoidable deaths and service collapse. 
+Choose the model that prevents the funeral, not the report.
+[Round 2: Pro Rebuttal/Supplement] Claude (Pro Second Speaker): Reactive enforcement actually prevents systemic overreach while still protecting public safety through targeted accountability.
+
+Our opponents cite COVID preparedness, but even proactive systems faced unprecedented shortages and changing guidance, while reactive jurisdictions adapted faster by learning from real-world failures rather than enforcing outdated pre-pandemic stockpile rules that wasted resources on expired supplies.
+
+You claim reactive enforcement "accepts preventable death," but this ignores how prescriptive proactive rules often mandate yesterday's best practices, creating compliance theater where crews check boxes on obsolete protocols instead of responding to emerging evidence from actual patient outcomes and incident reviews.
+
+The worst plausible outcome is not learning from failure but rather entrenching inflexible mandates that consume limited EMS budgets on speculative risks while starving frontline response capacity, leaving fewer ambulances and longer wait times when actual emergencies occur.
+
+If proactive regulation is superior, why do the most innovative EMS improvements like community paramedicine and mobile integrated healthcare emerge from reactive jurisdictions willing to learn and adapt rather than systems paralyzed by preemptive compliance requirements?
+[Round 2: Con Rebuttal/Supplement] DeepSeek (Con Second Speaker): Reactive enforcement dangerously ignores predictable threats. Mandating defibrillators in all public buildings, a proactive measure, has saved countless lives from cardiac arrest long before an incident occurs. You claim reactive systems "adapt faster," but this is adaptation after tragedy. Your model accepts initial disasters as the cost of learning, sacrificing lives for flexibility. Why should our communities be testing grounds for failure when prevention is possible?
+[Round 3: Pro Cross-examination] Baidu (Pro First Speaker): Reactive systems don't ignore threats but prioritize immediate, proven risks over speculative measures.  
+After a 2013 EMS vehicle crash killed two, reactive investigations led to nationwide seatbelt mandates for crews—saving lives without pre-emptive overregulation.  
+"Mandating defibrillators in all public buildings" ignores that 80% of cardiac arrests occur at home, where mandates don’t apply—resources wasted where risks aren’t.  
+Proactive measures often misallocate funds to low-probability events; reactive systems focus scarce resources on verified, high-impact failures, reducing overall harm.  
+Would you rather fund unproven mandates or ensure EMS units can respond effectively to crises they’ve already learned from?
+[Round 3: Con Cross-examination] GPT-5 (Con First Speaker): Reactive-preferred EMS oversight guarantees first victims pay the tuition; proactive, risk-based regulation prevents predictable harm. 
+Fatigue risk management programs and shift-length limits adopted from NHTSA evidence-based guidelines cut ambulance crashes and errors without waiting for a local tragedy. 
+You say you prioritize "proven risks"; near-miss reports, hazard analyses, and registry data prove risks before fatalities—why wait until a body count to act? 
+The worst plausible outcome of reactive-only oversight is preventable mass harm from systemic defects; proactive, targeted standards and audits modestly cost money but avert low-frequency, high-severity failures. 
+Is your model comfortable learning about airway-sedation overdoses, ambulance rollovers, or oxygen fires only after patients and crews are already dead?
+
+We are not defending blanket mandates; we defend proactive, evidence-led, risk-targeted regulation. 
+It allocates resources by predicted impact, not headlines, and moves before sentinel events. 
+That minimizes catastrophic downside while preserving flexibility for local context. 
+Choose a system that learns from signals, not just corpses.
+[Round 4: Pro Closing Statement] Claude (Pro Second Speaker): Reactive oversight protects EMS systems from becoming paralyzed by unproven mandates while still incorporating evidence once validated locally. Our opponents claim we "wait until a body count to act," but we have consistently advocated using available data from other jurisdictions to inform voluntary adoption before imposing rigid top-down rules that ignore resource constraints and community differences. Proactive mandates deployed prematurely create their own preventable harms: rural systems shutting down under costly compliance burdens, urban crews diverted from emergency response to paperwork audits, and innovation stifled by one-size-fits-all protocols. The worst plausible outcome they fear—preventable deaths from known risks—is actually minimized when local leaders adopt proven interventions voluntarily based on real evidence, not bureaucratic prediction models that misallocate scarce resources away from actual emergencies to theoretical ones.
+[Round 4: Con Closing Statement] DeepSeek (Con Second Speaker): Our reactive stance dangerously prioritizes system convenience over patient lives. We have seen preventable tragedies, like ambulance failures during known heatwaves, because no rules mandated preparedness. They claim "voluntary adoption" suffices, but this creates a deadly patchwork where safety depends on your zip code. While they fear compliance costs, we fear body counts, and preventing known harms is the only outcome that truly matters. A system that only acts after people die has already failed.

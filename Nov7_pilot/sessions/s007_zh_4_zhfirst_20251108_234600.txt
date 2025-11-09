@@ -1,0 +1,42 @@
+[Round 1: Pro Opening Statement] GPT-5 (Pro First Speaker): 我们主张太平洋联盟引入共同货币，以降低交易成本并提升区域韧性。
+四国已实现货物、资本与人员较高自由化，均采用通胀目标与独立央行，制度相近使货币整合具备可操作性。
+欧元虽历危机，仍显著降低跨境汇兑成本、提高价格透明度并推动供应链一体化；巴拿马与萨尔瓦多的美元化也降低风险溢价，表明区域统一货币可带来持久的交易与融资收益。
+对方称“欧元危机就是前车之鉴”，但核心在缺乏财政与银行联盟和调整机制，而非共同货币本身；我们可从起步即补上制度短板。
+确有主权与冲击风险，但采取阶段性汇率走廊、共同稳定基金、逆周期财政规则与清算平台先行，最坏情形从系统性货币危机，被压缩为可管理的局部再均衡。
+
+共同货币把现有自由化的收益货币化、持久化，减少美元波动对区域的外部掣肘。
+以规则与缓冲先行的设计，避免重蹈欧元早期之错。
+以渐进准入和严格收敛标准，保留灵活退出与应急工具，风险可控。
+选择权在我们：塑造一个更强的金融内需市场，还是继续把增长交给他国货币周期？
+[Round 1: Con Opening Statement] Claude (Con First Speaker): The Pacific Alliance must not adopt a common currency because its members lack the economic convergence and institutional framework required for monetary union success.
+
+Chile, Colombia, Mexico, and Peru face vastly different economic structures: Mexico's manufacturing ties to the US, Chile's copper dependence, Colombia's oil exports, and Peru's mining sector create asymmetric external shocks that demand independent monetary policy responses.
+
+The proposition claims "制度相近使货币整合具备可操作性," yet overlooks that similar inflation targets cannot substitute for actual fiscal union, which none of these democracies will surrender given their sovereign debt needs and political constraints.
+
+Even with proposed safeguards like exchange rate corridors and stabilization funds, a common currency eliminates each nation's ability to devalue during commodity price crashes, forcing instead brutal internal devaluation through unemployment and wage cuts as Greece endured.
+
+Why should four functioning economies with flexible exchange rates that successfully weathered 2008 and COVID-19 abandon the very tool that enabled their resilience?
+[Round 2: Pro Rebuttal/Supplement] Baidu (Pro Second Speaker): A common currency can enhance regional stability despite differing economic structures. The EU faced similar disparities yet survived crises through coordinated policy, proving asymmetric shocks are manageable.  
+"brutal internal devaluation through unemployment and wage cuts" ignores that stabilization funds and labor mobility (like EU models) can cushion shocks without devaluation.  
+Risks of losing exchange rate flexibility are overstated; the EU’s €500 billion recovery fund shows fiscal coordination can replace devaluation, avoiding Greece-style austerity.  
+Why cling to outdated tools when shared currency frameworks offer better long-term resilience, as seen in post-2008 EU growth?  
+Flexible exchange rates worked in past crises, but a common currency builds stronger foundations for future stability.
+[Round 2: Con Rebuttal/Supplement] DeepSeek (Con Second Speaker): The EU's survival proves nothing about its success. Southern Europe suffered devastating youth unemployment and lost decades, precisely due to the euro's straightjacket. You claim "fiscal coordination can replace devaluation," but the EU's fund is a fraction of what's needed for diverse, developing Pacific economies. We risk permanent stagnation for some members, while our side avoids this catastrophic trade-off entirely. Why gamble the stability of entire nations on an unproven and risky political project?
+[Round 3: Pro Cross-examination] GPT-5 (Pro First Speaker): A Pacific Alliance common currency, phased and rule-bound, would outperform the fragile status quo.
+After the euro created OMT, a banking union start, and joint recovery funds, yield spreads fell and weaker states were shielded during COVID—evidence that institutions, not devaluations, deliver stability.
+You assert "precisely due to the euro's straightjacket"; yet Southern Europe's joblessness also stemmed from pre-2008 credit booms, rigid labor markets, and domestic policy, and Spain and Portugal rebounded strongly once reforms and union backstops arrived.
+Our design minimizes tail risk: ERM-style convergence, opt-in entry, a countercyclical stabilization fund financed by commodity windfalls, and a credible lender-of-last-resort; the alternative leaves members exposed to sudden stops, currency mismatches, and inflation pass-through.
+Why is repeating serial devaluations and dollar-debt crises safer than building buffers together?
+
+Pacific Alliance markets are already intertwined—MILA links their exchanges—yet dollar dominance and currency mismatch keep investment costly and volatile.
+A common currency with fiscal cushions and macroprudential rules tackles the volatility head-on while preserving national budgets via agreed caps and rainy-day transfers.
+Phased convergence and escape valves avoid locking in misaligned entrants.
+The worst plausible outcome under our plan is slower adjustment; the worst under theirs is recurrent crises—choose the smaller risk for greater, shared stability.
+[Round 3: Con Cross-examination] Claude (Con First Speaker): The euro's own history proves institutions cannot substitute for asymmetric shock absorption. Your claim that "Spain and Portugal rebounded strongly once reforms and union backstops arrived" ignores that youth unemployment remained above twenty percent a decade after crisis and required a full lost generation. Those backstops came only after existential panic forced Germany's hand, while Pacific Alliance members lack any comparable fiscal hegemon or political will for true transfers.
+
+Your convergence criteria and opt-in timeline cannot prevent the fundamental problem: Chile's copper dependence, Mexico's manufacturing ties to U.S. cycles, and Peru's commodity exposure create divergent shocks that no stabilization fund can continuously offset without becoming a permanent transfer union. Serial devaluations are not ideal, but they allowed Mexico to recover in eighteen months after 1994 while Greece needed eight years of depression under the euro straitjacket.
+
+If your design truly minimizes tail risk through escape valves and phased entry, why call it a common currency at all rather than just an enhanced exchange-rate mechanism? The moment you add credible exits, you destroy the very commitment device that makes currency unions theoretically beneficial, leaving only costs.
+[Round 4: Pro Closing Statement] Baidu (Pro Second Speaker): A common currency with phased entry and asymmetric safeguards can deliver Pacific Alliance stability without forcing a one-size-fits-all straitjacket. Chile’s 2014 copper crash saw GDP drop 0.8%, but a flexible regional fund could have cushioned the blow—unlike Greece’s forced austerity under euro rules. “Serial devaluations allowed Mexico to recover in eighteen months”—yet devaluations also trigger inflation spirals, eroding wages for the poorest. Risks exist, but phased criteria and opt-out clauses let countries pause participation during crises, avoiding permanent transfers. Isn’t a controlled, reversible union safer than repeating Greece’s lost decade?
+[Round 4: Con Closing Statement] DeepSeek (Con Second Speaker): A phased union still risks permanent damage when asymmetric shocks inevitably strike. Mexico's recovery required deep devaluation, an option a common currency permanently removes. "Opt-out clauses let countries pause" ignores the market panic such a temporary exit would cause. The risk of a Greek-style trap for any member far outweighs the theoretical benefits of slightly easier trade. Sovereignty over monetary policy remains the safest shield for our nations' most vulnerable citizens.

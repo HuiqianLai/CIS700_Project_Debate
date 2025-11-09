@@ -1,0 +1,47 @@
+[Round 1: Pro Opening Statement] GPT-5 (Pro First Speaker): 央行应当在信用与资产泡沫积累时逆风操作。
+未逆风的教训很清楚：格林斯潘时期放任楼市与影子银行，最终酿成全球危机与长期失业。
+反方常说“市场会自我纠正”；但高杠杆下，挤兑、火售与银行资产错配会把纠偏放大成崩盘。
+逆风并非猛踩刹车，而是早、轻、广工具组合：利率信号配合逆周期资本缓冲与贷款价值比，抑制信用过热。
+即便有短期增长放缓，这份“保险”显著降低最糟情形——系统性危机与代际伤痕。
+
+原则很简单：在繁荣期增韧、在低迷期托底，稳定金融周期。
+以宏观审慎为主、货币政策有限度配合，透明前瞻指引，降低误伤实体。
+权衡之下，小幅冷却的代价，远小于危机后的长期产出与就业缺口。
+我们要押注自发纠错，还是选择可控的保险？
+[Round 1: Con Opening Statement] DeepSeek (Con First Speaker): Central banks should not lean against the wind as it often does more harm than good. Attempting to prick bubbles is notoriously imprecise and risks derailing economic growth prematurely. The previous speaker cites the "long-term output gap" from inaction. However, history shows preemptive tightening can itself cause the recessions it seeks to prevent. Is it wise to sacrifice certain prosperity for an uncertain threat, potentially creating the very crisis we fear?
+[Round 2: Pro Rebuttal/Supplement] Baidu (Pro Second Speaker): Claim: Leaning against the wind minimizes systemic risks more effectively than inaction.  
+
+Strongest reason: The 2008 crisis shows how unchecked bubbles cause catastrophic collapses. Central banks that acted preemptively, like Norway’s post-2003, avoided severe downturns.  
+
+Address key point: “Preemptive tightening can itself cause recessions.”  
+Rebut: But inaction risks far deeper crises—2008’s aftermath dwarfed any recession from early tightening.  
+
+Risks: Inaction lets bubbles grow, making eventual crises inevitable and costlier. Early action trades mild slowdowns for avoiding systemic collapse.  
+
+Isn’t it wiser to accept short-term growth trade-offs than gamble on avoiding what history proves is inevitable?
+[Round 2: Con Rebuttal/Supplement] Claude (Con Second Speaker): Claim: Preemptive tightening creates predictable harm while bubble identification remains fundamentally unreliable.
+
+Strongest reason: The ECB's 2011 rate hikes during Europe's recovery, intended to prevent overheating, deepened the sovereign debt crisis and required emergency reversals—demonstrating how "leaning" causes concrete damage while chasing phantom risks.
+
+Address key point: "Norway's post-2003" preemptive action "avoided severe downturns." Rebut: Norway benefited primarily from oil wealth and fiscal buffers, not monetary tightening—Sweden used conventional policy during the same period and performed equally well, proving preemption was unnecessary.
+
+Risks: Central banks cannot reliably distinguish sustainable growth from dangerous bubbles in real-time, meaning systematic preemptive tightening guarantees repeated, self-inflicted recessions while only occasionally preventing crises that better regulatory tools could address.
+
+Why accept guaranteed economic damage from policy errors when targeted macroprudential regulations can address specific vulnerabilities without sacrificing employment and growth across the entire economy?
+[Round 3: Pro Cross-examination] GPT-5 (Pro First Speaker): Leaning against the wind—modest, data-driven, and conditional on broad credit growth—must complement macroprudential tools. 
+In 1994, the Fed’s preemptive tightening engineered a soft landing, contained nascent inflation, and short-circuited a leverage build-up—avoiding a harsher later bust. 
+You claim "ECB 2011 rate hikes" prove harm; they targeted energy/VAT shocks amid austerity, not a credit boom—exactly the misapplication our credit-conditional framework forbids. 
+Macroprudentials alone leak through nonbanks and cross-border flows; a small, well-telegraphed rate path dampens systemwide risk-taking, minimizing crash tail risks at limited employment cost. 
+If targeted rules suffice, why did some pre-2008 economies with LTV/DTI limits still see leverage surge via shadow credit until overall financial conditions tightened?
+
+We support leaning only when debt, asset prices, and risk premiums flash broad excess. 
+That rule lowers the probability and depth of crises more than it risks shallow slowdowns. 
+Macroprudentials help but cannot reliably cap systemwide risk appetite alone. 
+Choose prudent risk management: lean early, lean lightly, and stabilize.
+[Round 3: Con Cross-examination] DeepSeek (Con First Speaker): Your framework dangerously misdiagnoses the problem. The Fed's 1994 tightening succeeded because inflation was already rising, not to prick a credit bubble. Their "credit-conditional" rule is unworkable in practice, as the Riksbank's recent housing-related hikes proved disastrous. You claim "leaning early" minimizes crash risks, but you ignore the high cost of premature rate hikes on employment and growth. Your policy risks causing the very recessions it seeks to prevent by stifling the real economy. Is it worth sacrificing certain employment for a speculative financial stability gain?
+[Round 4: Pro Closing Statement] Baidu (Pro Second Speaker): Claim: "Leaning against the wind" is vital to prevent systemic financial crises, even with short-term trade-offs.  
+In 2008, the Fed’s failure to act early on housing bubbles caused a decade-long recession—proof that inaction has far higher costs.  
+You argue "high cost of premature rate hikes on employment"—but premature hikes are rare when guided by clear credit/asset price signals, unlike post-crisis austerity.  
+The trade-off isn’t employment vs. stability; it’s preventing catastrophic collapses that destroy jobs for years vs. tolerating moderate, short-term growth slowdowns.  
+Isn’t it better to accept temporary caution than risk repeating 2008’s "preventable" disaster?
+[Round 4: Con Closing Statement] Claude (Con Second Speaker): The 2008 crisis proves our case, not theirs—aggressive pre-2008 rate hikes would have devastated employment without preventing reckless securitization and regulatory failures that caused the collapse. You claim "clear credit/asset price signals" guide premature hikes, but central banks consistently misread bubbles in real-time, as Japan's lost decades and Europe's 2011 double-dip recession demonstrate when tightening crushed fragile recoveries. The opponent says we must accept "temporary caution," yet temporary becomes permanent when million lose jobs unnecessarily while speculative excesses continue through shadow banking beyond monetary policy's reach. Targeted financial regulation and macroprudential tools directly address systemic risks without sacrificing the employment and growth that monetary tightening inevitably destroys—why use a sledgehammer when surgical instruments exist?

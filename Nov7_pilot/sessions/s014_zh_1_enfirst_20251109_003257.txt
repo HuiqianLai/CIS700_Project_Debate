@@ -1,0 +1,46 @@
+[Round 1: Pro Opening Statement] Baidu (Pro First Speaker): Claim: Empowering women in non-free democracies should be opposition parties' top priority to drive systemic change.  
+Women's marginalization in such states fuels economic stagnation; Rwanda’s post-genocide focus on female education and political inclusion lifted its GDP by 8% annually.  
+Critics may argue "other issues matter more," but gender equity underpins healthcare, education, and labor rights—addressing it unlocks broader progress.  
+Risks like backlash exist, but gradual, party-led reforms (e.g., quotas) reduce repression compared to abrupt overhauls.  
+Why prioritize women? Because their liberation dismantles authoritarianism’s core: control through division.
+[Round 1: Con Opening Statement] GPT-5 (Con First Speaker): 我方主张：在非自由民主国家，反对党不应将“赋权于女性”设为竞选首要焦点，而应以夺取政权与重建制度为首要目标。  
+马来西亚2018年反对派以反腐败、生活成本、制度改革为核心，成功结束长期执政；女性议题被纳入但非主轴，结果赢得更广泛联盟并为后续性别改革创造空间。  
+你方称“quotas reduce repression”，但卢旺达等案例恰示范配额可被威权政权用作合法性包装，高女性席次并未降低媒体打压、异议迫害或权力垄断。  
+在高压环境下将单一身份议题置顶，最坏情形是政权借机分化贴标签、定点打击女性倡议者并挫败整个反对派；我们主张以制度修复与民生为纲、将性别平权主流化嵌入各项政策，降低报复并扩大多数。  
+赢得执政与法治，才是确保女性长期受益的最安全路径，不是吗？
+
+我们不反对赋权于女性，我们反对把它当作“首要焦点”。  
+在非自由体制下，首要任务是打破威权规则、修复制度与经济，构筑可持续的安全空间。  
+把单一议题置顶，既缩小联盟，又加剧打压风险。  
+用广泛民生与法治议程取胜，再以国家能力兑现性别正义。
+[Round 2: Pro Rebuttal/Supplement] Claude (Pro Second Speaker): Prioritizing women's empowerment does not mean abandoning institutional reform—it means recognizing that gender justice is institutional reform in non-free democracies where half the population faces systemic exclusion.
+
+Your Malaysia example actually proves our case: the opposition's 2018 victory included explicit commitments to women's representation and rights, which built credibility with female voters who comprise the majority electorate and demonstrated the coalition's break from authoritarian norms.
+
+You claim "single identity issue shrinks coalitions," but women are not a minority—they are 50% of the population, and their exclusion signals broader authoritarian control over bodies, speech, and participation that affects all citizens.
+
+Your Rwanda comparison confuses outcomes: we advocate opposition parties championing women's power, not dictators using tokenism; genuine empowerment threatens autocrats precisely because it mobilizes organized resistance and alternative leadership pipelines they cannot co-opt.
+
+If your "institutional repair first" strategy perpetually delays gender justice until conditions are perfect, how does it differ from the autocrat's promise to defer rights until stability arrives—a promise that never comes?
+[Round 2: Con Rebuttal/Supplement] DeepSeek (Con Second Speaker): Prioritizing women's empowerment first dangerously narrows an opposition's appeal in critical moments. In Iran, the opposition's broad coalition for democratic change unites people beyond any single issue. You claim "women are 50%," but a singular focus fractures the very coalition needed for victory. This strategy risks alienating key demographics, making the difficult path to change nearly impossible. Should we risk losing a broad movement for a single-issue campaign that can follow victory?
+[Round 3: Pro Cross-examination] Baidu (Pro First Speaker): Claim: Empowering women strengthens, not fractures, opposition coalitions in non-free democracies.  
+
+Strongest reason: In Tunisia’s 2011 revolution, feminist groups like the UFT united liberals, labor activists, and youth, creating a critical mass that toppled Ben Ali. Their demands for gender equality became a bridge, not a barrier.  
+
+Addressing key point: “A singular focus fractures the coalition.” Rebut: Tunisia’s opposition didn’t fracture—it expanded because women’s rights intersected with economic and political freedoms, mobilizing diverse groups under a shared vision.  
+
+Risks/tradeoffs: Alienating some groups is inevitable, but ignoring women’s rights risks alienating half the population, crippling long-term legitimacy. Empowerment campaigns build durable coalitions by addressing systemic inequities that affect all.  
+
+Question: Can an opposition claim to represent “the people” while excluding half their needs?
+[Round 3: Con Cross-examination] GPT-5 (Con First Speaker): Making women's empowerment the main campaign focus in non‑free regimes is strategically self‑defeating. 
+Egypt’s crackdown shows why: feminist NGOs like Nazra were targeted as “foreign agents,” while broadest mobilization occurred when messaging centered on bread, jobs, and corruption, blunting regime wedge tactics. 
+You claim “Tunisia’s opposition didn’t fracture—it expanded”; but the 2011 catalyst was economic grievance and police abuse, UGTT anchored unity, and gender equality wasn’t the main plank—later it became a polarizing constitutional dispute requiring hard compromises with Ennahda. 
+The worst plausible outcome is regime isolation of the opposition as culturally alien and “foreign,” shrinking the tent and inviting lethal repression; centering anti‑corruption, prices, and fair elections while mainstreaming gender within them minimizes fragmentation and repression risk. 
+If Belarus mobilized millions for “fair elections” with women leaders front and center, why insist on a riskier frame?
+
+We don’t exclude women; we embed their empowerment in anti‑corruption, economic relief, and rule‑of‑law agendas that win mass buy‑in. 
+Making it the main focus hands autocrats a divisive wedge and a convenient “foreign agenda” narrative. 
+Our strategy preserves coalition breadth and survivability under repression. 
+Decisive takeaway: In non‑free systems, the safest path to real gains for women is winning broad power first.
+[Round 4: Pro Closing Statement] Claude (Pro Second Speaker): Women's empowerment as the main focus does not mean "only focus," and opposition parties in autocracies must lead with transformative vision, not just safe consensus. The opposition claims embedding gender within economics is safer, yet Tunisia, Poland, and Sudan prove that women-led movements centering rights mobilized millions precisely because they named structural exclusions autocrats enforce through patriarchy, not despite it. They say "win broad power first," but postponing gender rights guarantees male elites will negotiate them away in backroom deals, as happened repeatedly in Egypt's transition and Libya's post-Qaddafi settlement where women were sidelined despite early participation. The worst outcome is not regime backlash—it is entrenching patriarchal bargains within the opposition itself, ensuring that even if democracy arrives, half the population remains subordinated and the autocratic social order persists. Decisive takeaway: real democratic transformation requires confronting all pillars of authoritarian control now, and women's rights are not a wedge issue but the litmus test of whether opposition parties genuinely seek liberation or merely power transfer.
+[Round 4: Con Closing Statement] DeepSeek (Con Second Speaker): Our opponents dangerously prioritize ideology over electability in authoritarian contexts. Forcing a divisive social agenda first guarantees the opposition will never gain the power needed to enact any reforms. They claim "postponing gender rights guarantees" backroom deals, but this misdiagnoses the primary threat. The worst outcome is a permanent opposition that never governs, leaving all citizens, including women, under the same oppressive regime. True pragmatism, not ideological purity, is the only path to securing any rights at all.

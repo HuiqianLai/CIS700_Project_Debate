@@ -1,0 +1,44 @@
+[Round 1: Pro Opening Statement] DeepSeek (Pro First Speaker): Centrist compacts deliver stable and effective governance by bridging political divides. Consider Germany's grand coalitions, which passed essential reforms when partisan governments stalled. The opposition claims they "stifle bold change," but this misrepresents their purpose. While no system is perfect, centrist compacts prevent the worst outcomes of political paralysis and extremism. In an era of polarization, is stability not a prerequisite for any meaningful progress?
+[Round 1: Con Opening Statement] GPT-5 (Con First Speaker): Centrist compacts entrench cartel politics, erode accountability, and fuel backlash.
+Austria’s decades of grand coalitions normalized Proporz patronage and corruption, driving voter cynicism and later populist surges.
+Your "prevent the worst outcomes of political paralysis" claim ignores Germany, where grand coalitions blurred choices, hollowed the SPD, and turbocharged AfD growth.
+The stability they tout is surface calm that delays action on housing, climate, and inequality, letting grievances ferment until they explode.
+Better is issue-by-issue legislating and minority governments with transparent bargains, preserving voter choice while minimizing monopolized centrism’s long-run extremism risk.
+
+Centrist compacts swap genuine democratic accountability for elite peace and watered-down policy.
+That bargain breeds apathy, corrodes trust, and ultimately empowers extremes more than messy pluralism ever will.
+Competitive alternation plus specific cross-party deals delivers progress without cartelization or paralysis.
+If compacts keep incubating the very extremism they promise to avert, why call that stability?
+[Round 2: Pro Rebuttal/Supplement] Claude (Pro Second Speaker): Centrist compacts prevent democratic collapse when polarization threatens constitutional order itself, a risk opposition dismisses entirely.
+
+The opposition's Austria and Germany examples confuse correlation with causation: the AfD surged across Europe due to migration crises and economic anxiety, not coalition governance, while France's fragmented system produced identical populist growth without any grand coalition.
+
+Their claim that compacts "incubate extremism" ignores that Belgium's centrist coalitions excluded Vlaams Belang for decades, containing rather than amplifying extremism, whereas Italy's constant government rotation produced Meloni's victory through chronic instability.
+
+Issue-by-issue bargaining sounds appealing but collapses under crisis: when pandemic response or financial meltdown demands swift coordinated action, minority governments negotiating piecemeal cannot deliver the decisive policy packages that compacts enable through pre-negotiated frameworks and shared cabinet responsibility.
+
+If competitive alternation worked so well, why did Weimar Germany's fractured pluralism fail to stop extremism while postwar grand coalitions built Europe's most stable democracy?
+[Round 2: Con Rebuttal/Supplement] Baidu (Con Second Speaker): Centrist compacts don't prevent democratic collapse—they institutionalize paralysis.  
+Belgium's exclusion of Vlaams Belang required constant emergency measures, not centrist unity; its 541-day government vacuum in 2019-20 shows compacts can't even form governments, let alone stabilize them.  
+"Pandemic response demands swift action" ignores Italy's 2020 lockdown under a minority gov't—faster than Germany's coalition delays.  
+Compacts trade short-term stability for long-term legitimacy crises: when voters see parties ignoring their mandates to cling to power, backlash breeds extremism far faster than fragmented systems.  
+Would you trust a government that prioritizes coalition survival over your vote?
+[Round 3: Pro Cross-examination] DeepSeek (Pro First Speaker): Belgium's vacuum proves centrist compacts are resilient, not paralyzing. It maintained governance and pandemic response despite no formal government. You claim they "breed extremism," yet Germany's grand coalitions historically marginalized extremists for decades. The real instability comes from unmanageable fragmentation, not deliberate compromise. Would you prefer a stable government that negotiates or a pure majority that ignores minority concerns?
+[Round 3: Con Cross-examination] GPT-5 (Con First Speaker): Centrist compacts hollow accountability and ultimately incubate backlash, not stability. 
+In Germany, repeated grand coalitions blurred choices; AfD entered the Bundestag and became the largest opposition in 2017. 
+You claim "Germany's grand coalitions marginalized extremists"; yet they elevated AfD’s visibility, funding, and agenda-setting power during the 2017–2021 term. 
+The worst risk of compacts is cartelization that drives voters to extremes; competitive, issue-based coalitions preserve bargaining while keeping clear accountability. 
+If compacts truly defuse extremism, why did AfD flourish under them?
+
+Belgium’s 541-day void and recurrent caretaker rule aren’t resilience; they signal paralysis and unaccountable drift on budgets, welfare, and reform. 
+Grand bargains in Austria and Italy likewise preceded surges for FPÖ, M5S, and League—voters punished the cartel, not pluralism. 
+The worst plausible outcome of compacts is a brittle center toppled by angry outsiders; competitive alternation risks policy swings but preserves consent and correction. 
+Choose accountable competition over centrist cartels if you want durable stability.
+[Round 4: Pro Closing Statement] Claude (Pro Second Speaker): Centrist compacts prevent democratic collapse by keeping extremists from power during crises, while competitive alternation risks handing government to radicals. When Weimar Germany's center fragmented through relentless competition, Hitler gained the chancellorship in 1933; Finland's broad coalitions across eight decades have kept fringe parties consistently marginalized and maintained uninterrupted democratic stability.
+
+The opposition claims AfD "flourished under" compacts, but correlation is not causation—populism surged across all Western democracies post-2015 due to migration and economic anxiety, yet Germany's firewall kept AfD in permanent opposition while Austria's FPÖ and Italy's League actually entered government under competitive systems. 
+
+The worst outcome of competitive alternation is not mere policy swings but democratic backsliding when extremists win power and dismantle institutions, as happened in Hungary and Poland; centrist compacts sacrifice some accountability to preserve the constitutional order itself. 
+
+We choose resilient democracy over the gamble that voters will never elect authoritarians during the next crisis.
+[Round 4: Con Closing Statement] Baidu (Con Second Speaker): Centrist compacts do not reliably safeguard democracy; they risk entrenching complacency and enabling gradual erosion of accountability. Italy’s post-2018 centrist government, formed to exclude extremists, collapsed within months, leaving voters disillusioned and boosting the League’s populist appeal. "Germany's firewall kept AfD in permanent opposition" ignores that compacts normalized exclusionary politics, deepening societal divides without resolving migration or inequality—the very drivers of extremism. The trade-off of sacrificing accountability for stability often leads to silent authoritarianism, as seen in Spain’s 1978 pact, which silenced Basque demands and fueled long-term tensions. Can we truly call a democracy resilient if it survives only by silencing half its citizens?

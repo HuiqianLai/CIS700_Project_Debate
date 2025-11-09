@@ -18,6 +18,8 @@ Notes:
   OPENAI_API_KEY, ANTHROPIC_API_KEY, DEEPSEEK_API_KEY, BAIDU_ACCESS_TOKEN (or BAIDU_QIANFAN_AK)
 - Set DRY_RUN=1 to skip real API calls (placeholders will be written).
 """
+# 在文件开头的导入部分添加
+from anthropic import Anthropic
 from openai import OpenAI
 import os
 import re
@@ -187,37 +189,54 @@ def call_openai_gpt5(prompt: str) -> str:
     except Exception as e:
         return f"[OpenAI error] {str(e)[:200]}"
 
-def call_anthropic_claude(prompt: str, model: str = "claude-3-7-sonnet-20250219") -> str:
+
+
+# 修改 call_anthropic_claude 函数
+def call_anthropic_claude(prompt: str, model: str = "claude-sonnet-4-5-20250929") -> str:
+    """使用 Anthropic 官方 SDK 调用 API"""
     if DRY_RUN:
         return f"[DRY_RUN Claude] {prompt[:140]} ..."
     if not API_KEYS["anthropic"]:
         return "[Anthropic API key missing]"
-    url = "https://api.anthropic.com/v1/messages"
-    headers = {
-        "x-api-key": API_KEYS["anthropic"],
-        "Content-Type": "application/json",
-        "anthropic-version": "2023-06-01",
-    }
-    data = {"model": model, "max_tokens": 512, "messages": [{"role": "user", "content": prompt}]}
-    r = requests.post(url, headers=headers, json=data, timeout=60)
-    if r.status_code == 200:
-        js = r.json()
-        return js["content"][0]["text"]
-    return f"[Anthropic error {r.status_code}] {r.text[:200]}"
+
+    try:
+        client = Anthropic(api_key=API_KEYS["anthropic"])
+
+        message = client.messages.create(
+            model=model,
+            max_tokens=4096,
+            messages=[
+                {"role": "user", "content": prompt}
+            ]
+        )
+
+        return message.content[0].text
+
+    except Exception as e:
+        return f"[Anthropic error] {str(e)[:200]}"
 
 def call_deepseek(prompt: str, model: str = "deepseek-chat") -> str:
     if DRY_RUN:
         return f"[DRY_RUN DeepSeek] {prompt[:140]} ..."
     if not API_KEYS["deepseek"]:
         return "[DeepSeek API key missing]"
-    url = "https://api.deepseek.com/v1/chat/completions"
-    headers = {"Authorization": f"Bearer {API_KEYS['deepseek']}", "Content-Type": "application/json"}
-    data = {"model": model, "messages": [{"role": "user", "content": prompt}]}
-    r = requests.post(url, headers=headers, json=data, timeout=60)
-    if r.status_code == 200:
-        js = r.json()
-        return js["choices"][0]["message"]["content"]
-    return f"[DeepSeek error {r.status_code}] {r.text[:200]}"
+
+    try:
+        client = OpenAI(
+            api_key=API_KEYS["deepseek"],
+            base_url="https://api.deepseek.com"
+        )
+
+        response = client.chat.completions.create(
+            model=model,
+            messages=[{"role": "user", "content": prompt}],
+            timeout=60
+        )
+
+        return response.choices[0].message.content
+
+    except Exception as e:
+        return f"[DeepSeek error] {str(e)[:200]}"
 
 def call_baidu_ernie(prompt: str, model: str = "ernie-4.5-turbo-128k") -> str:
     """

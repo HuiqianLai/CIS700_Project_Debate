@@ -1,0 +1,40 @@
+[Round 1: Pro Opening Statement] GPT-5 (Pro First Speaker): 我们主张，教育应刻意放大学生的学业自我认知。
+课堂经验与研究表明，“皮格马利翁效应”和“尚未”式评价能显著提升坚持与投入。
+以极度正面、过程导向的反馈并取消“不及格”标签，帮助初学者跨过最脆弱的起步期。
+反方会说“脱离现实”，但我们夸大的是可塑性与可达性，而非忽视标准。
+把自信当作学习的支架，比让羞耻充当老师更有效。
+
+风险是自满与校准偏差，代价是短期错觉。
+我们用高挑战任务、清晰标准、频繁形成性反馈与阶段性外部对标，控制最坏后果。
+相比之下，早期羞辱与贴“失败者”标签导致的退场、焦虑与自我设限，往往不可逆。
+难道我们要让羞耻而非希望驱动学习吗？
+[Round 1: Con Opening Statement] Baidu (Con First Speaker): Deliberately inflating students' academic self-perception risks creating fragile learners unprepared for real-world challenges. A student who never receives below a B may struggle when faced with actual failure in higher education or careers. "We use high challenge tasks to control consequences," yet shielding students from failure prevents them from developing resilience. The tradeoff is short-term confidence versus long-term adaptability, with the latter minimizing irreversible harm like learned helplessness. How will students handle genuine criticism if they've never experienced constructive failure?
+[Round 2: Pro Rebuttal/Supplement] Claude (Pro Second Speaker): The opponent falsely equates inflated grades with zero critical feedback, but our model provides positive reinforcement while still offering guidance for improvement. Research on growth mindset shows students who believe in their capacity to improve actually persist longer through difficult tasks than those conditioned to expect failure. 
+
+The claim that students "never experience constructive failure" misunderstands our position—we advocate strategic feedback timing, not eliminating all challenge. A child who receives a D in third grade may disengage permanently from academics, whereas one encouraged to see setbacks as temporary develops genuine resilience through supported struggle, not punitive grades.
+
+The opponent's "real-world challenges" argument ignores that childhood is precisely when we build psychological foundations—adult criticism lands differently on confident versus fragile self-concepts. We minimize the worst outcome: students internalizing academic inadequacy during formative years, creating self-fulfilling prophecies of failure that no amount of later "tough love" can reverse.
+
+If harsh grading built resilience, why do high-pressure education systems report rising student anxiety and dropout rates rather than stronger graduates?
+[Round 2: Con Rebuttal/Supplement] DeepSeek (Con Second Speaker): Strategic timing of feedback still avoids the necessary sting of failure when it matters most. Students denied honest assessment enter adulthood unprepared for professional consequences. Your "supported struggle" creates dependency, not resilience. You claim children "internalize inadequacy" from poor grades, but that misdiagnoses the problem. The greater danger is students never learning to self-correct without constant external validation. Is a temporary confidence boost worth a lifetime of fragile self-esteem?
+[Round 3: Pro Cross-examination] GPT-5 (Pro First Speaker): Deliberately inflating academic self-belief early builds durable motivation and later mastery.
+In mastery-based classrooms, replacing Fs with "not yet" plus high-praise, high-retry cycles leads students to revise repeatedly until standards are met.
+Your "denied honest assessment" worry misreads our model: feedback is candid about next steps, but framed to preserve expectancy and autonomy through student-chosen revisions, which prevents the very dependency you fear.
+Worst case, our students are slightly overconfident—quickly corrected by external benchmarks; worst case for yours is learned helplessness, withdrawal, and talent loss; we minimize the graver harm.
+Which risk is easier to fix: optimism overshoot or entrenched defeat?
+
+Exaggerated positivity is a temporary scaffold, not a permanent crutch.
+It buys attention and effort precisely when children are forming beliefs about their ability to learn.
+We still require evidence of competence; we just delay stigmatizing labels until mastery is reachable.
+Protect expectancy early, measure mastery steadily, and you maximize long-term rigor and resilience.
+[Round 3: Con Cross-examination] Baidu (Con First Speaker): Claim: Deliberate inflation of self-belief risks creating fragile learners unprepared for real-world feedback.  
+
+Strongest reason: When students later face external benchmarks—like standardized tests or workplace evaluations—their overconfidence may crumble without prior exposure to honest assessment.  
+
+You claim "worst case, our students are slightly overconfident—quickly corrected by external benchmarks." But external corrections often come too late, after habits of avoidance or blame-shifting are entrenched.  
+
+Your model minimizes learned helplessness but risks cultivating learned helplessness’s opposite: learned helplessness when reality contradicts inflated self-views. Which is harder to unlearn—defeatism or unearned confidence?  
+
+If you delay honest feedback, can you guarantee students won’t equate "not yet" with "never"?
+[Round 4: Pro Closing Statement] Claude (Pro Second Speaker): Our framework preserves potential while opposition abandons vulnerable learners to premature defeat. Throughout this debate, we demonstrated that fragile confidence can be rebuilt through gradual exposure, but crushed motivation in childhood creates lifelong learned helplessness that no later intervention fully reverses. Opposition claims "external corrections often come too late," yet their alternative delivers crushing corrections immediately when neural plasticity makes children interpret failure as identity rather than feedback. The measurable harm of early academic trauma—dropout rates, anxiety disorders, permanent disengagement—far exceeds the temporary adjustment period when supported students encounter external benchmarks with intact self-worth and resilience reserves already built.
+[Round 4: Con Closing Statement] DeepSeek (Con Second Speaker): Our approach prevents the cruel bait-and-switch of misleading students about their own abilities. Creating a false reality denies children the very tools needed to navigate future challenges. They claim "crushed motivation... creates lifelong learned helplessness," but helplessness is learned precisely when one has no experience overcoming difficulty. The worst outcome is a generation unprepared for reality, not one that was supportively guided through it. The truth, delivered with support, is the ultimate form of respect for a child's potential.

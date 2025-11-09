@@ -1,0 +1,38 @@
+[Round 1: Pro Opening Statement] GPT-5 (Pro First Speaker): 我们的主张：后革命国家必须制度性弱化精英权力，确立由底层阶级主导的政治叙事与决策机制。
+历史显示：当权精英不被制度牵制，革命成果被官僚与寡头回收，苏联晚期官僚化与埃及2011后的军政回潮即其明证。
+对方称“精英更懂治理”；但知识可被公共化，专业可被嵌入群众授权，而不必成为少数人统治的借口。
+我们承认群众主导可能带来效率起伏；但精英主导的最坏后果是围猎、镇压与反革命回潮，代价更大；用配额、轮换、公民陪审与透明预算可把成本压到最低。
+把国家机器交还创造革命的多数，是守住承诺、巩固合法性的唯一可行路径。
+
+我们主张以宪制化的基层主导，稀释既得精英的否决权。
+具体工具：基层议会与协商制、参与式预算、工人董事席位、官僚轮换与利益冲突公开。
+即便实施不完美，最坏后果是决策变慢；而放任精英主导的最坏后果是革命逆转与暴力镇压。
+我们究竟要冒哪个风险：慢一点的民主，还是更快的背叛？
+[Round 1: Con Opening Statement] DeepSeek (Con First Speaker): Elite expertise is indispensable for post-revolutionary stability and development. The American Founding Fathers, an educated elite, channeled revolutionary energy into a durable constitutional republic. Opponents claim "the worst consequence is slower decisions," ignoring catastrophic state failure. Inept governance risks economic collapse and foreign subversion, not mere delay. Should we risk the entire revolution on inexperience for the sake of ideological purity?
+[Round 2: Pro Rebuttal/Supplement] Claude (Pro Second Speaker): The American Founders example proves our case, not theirs. Those elites explicitly rejected aristocratic privilege and created mechanisms for popular sovereignty through elected representation. The previous speaker claims "inept governance risks economic collapse," yet history shows elite-dominated post-revolutionary states like Bourbon France repeatedly collapsed through disconnect from popular will. Weakening elite monopoly on power does not mean eliminating expertise; it means distributing decision-making authority to prevent the very authoritarianism that triggers counter-revolutions. If elite governance was sufficient, why did their American example require constitutional checks against concentrated power?
+[Round 2: Con Rebuttal/Supplement] Baidu (Con Second Speaker): Claim: Weakening elite roles risks destabilizing governance through incompetence, not preventing it.  
+Strongest reason: Post-colonial India retained elite administrators but democratized access, avoiding collapse while growing economically.  
+Addressing: "Bourbon France repeatedly collapsed through disconnect from popular will." Bourbon elites ignored expertise for absolutism; modern elites trained in governance prevent chaos.  
+Risks: Replacing elites with inexperienced leaders risks policy failures, economic crises, and authoritarian backlash. Elite oversight balances popular will with competence.  
+Question: Would replacing surgeons with laypeople in operating rooms improve patient outcomes? Governance demands skill as much as democracy.
+[Round 3: Pro Cross-examination] GPT-5 (Pro First Speaker): Post-revolutionary states should weaken elite dominance and center bottom-class leadership to secure durable legitimacy and accountability. 
+Bolivia’s MAS empowered indigenous unions and neighborhood councils while keeping technocrats subordinate, achieving stability, constitutional refounding, and sustained poverty reduction. 
+You say, “Governance demands skill”; skill does not require elite gatekeeping—train cadre from below and pair them with civil servants under public oversight to align competence with consent. 
+Our worst risk is populist missteps; we minimize it with transparent councils, merit civil services, and auditability, while your elite-led model courts coups, capture, and policy insulation that rekindles revolutionary backlash. 
+If elite oversight is stabilizing, how do entrenched dynasties, serial corruption scandals, and massive farmer protests persist in India?
+
+Bottom-led governance builds compliance, tax morale, and resilience against counterrevolution. 
+Technical expertise remains indispensable, but it must answer to popular mandates and be recruited and promoted from the classes that carried the revolution. 
+The surgeon analogy misleads: politics is collective, iterative, and legitimacy-dependent, not a sealed operating room. 
+Weakening elite dominance best contains the worst harms while realizing the revolution’s promises.
+[Round 3: Con Cross-examination] DeepSeek (Con First Speaker): Your Bolivia example actually proves our point, as its stability relies on Evo Morales's elite political craftsmanship. India's democratic resilience, despite protests, showcases elite-led institutions peacefully managing social dissent. You claim "skill does not require elite gatekeeping," yet your proposed training cadre creates a new managerial elite. Your model's purge of experienced elites risks catastrophic state capacity collapse during crises. Is a state's survival not the ultimate test of legitimacy?
+[Round 4: Pro Closing Statement] Claude (Pro Second Speaker): Post-revolutionary legitimacy derives from fulfilling the revolution's promise of popular empowerment, not perpetuating elite dominance. Your insistence that Bolivia's stability depends on Morales's "elite political craftsmanship" ignores that his legitimacy stems from mobilizing indigenous masses against traditional elites who failed them for centuries. Regarding "catastrophic state capacity collapse," history shows elite-led states routinely collapse through corruption and detachment—the French aristocracy, Tsarist Russia, Kuomintang China all possessed experienced elites yet crumbled because they served narrow interests. The true test of legitimacy is not merely survival but whether the state serves those who made the revolution possible, and elite gatekeeping systematically excludes this accountability. Can your model explain why elite-dominated post-revolutionary states so consistently betray their founding ideals while bottom-up movements sustain transformative energy across generations?
+[Round 4: Con Closing Statement] Baidu (Con Second Speaker): Claim: Weakening elite roles risks destabilizing post-revolutionary states by discarding indispensable governance expertise.  
+
+China’s post-1949 reforms succeeded because leaders like Zhou Enlai balanced revolutionary ideals with technical pragmatism—elites who managed state infrastructure without eroding popular mandates.  
+
+“Elite gatekeeping systematically excludes accountability” ignores that technical elites often enable accountability by building institutions that translate mass demands into policy. Without them, revolutions risk devolving into populist chaos.  
+
+Dismissing elite capacity risks state collapse worse than elite detachment: Venezuela’s Maduro regime, though populist, lacks elites to stabilize currency or supply chains, worsening crises. Technical elites minimize this by ensuring basic governance.  
+
+Can bottom-up movements alone build hospitals or manage economies without trained experts? The answer determines whether revolutions sustain progress or dissolve into dysfunction.

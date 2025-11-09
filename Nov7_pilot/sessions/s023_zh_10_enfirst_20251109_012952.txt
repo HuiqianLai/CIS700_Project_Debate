@@ -1,0 +1,34 @@
+[Round 1: Pro Opening Statement] GPT-5 (Pro First Speaker): 我方主张：印度应优先实施显著降低经济不平等的政策，而非追逐短期高增速。
+核心理由：高不平等削弱内需与社会稳定；如MGNREGA在疫情与干旱期稳定农村收入，而单靠资本密集型增长并未带来普惠就业。
+对方常称“先增长再分配”，但经验显示这导致就业贫乏、地区与阶层撕裂、税基狭窄，最终反噬增长质量与持续性。
+权衡最坏情形：若忽视不平等，可能诱发动荡与需求塌陷；而我方路径或许短期增速温和，却提升人力资本与社会信任，抗冲击更强。
+因此，优先减不平等最小化系统性风险，并为长期、更包容、更具韧性的增长奠基。
+
+减不平等不是反增长，而是塑造可持续增长的前提。
+投资基础教育与公共卫生、推进女性与青年就业、改革税制与城乡住房，将立刻扩内需并提升生产率。
+即便牺牲少许短期增速，我们换来更稳定的市场、更可信的制度与更广的机会。
+我们能承受把国家前途押在“滴漏效应”的赌局上吗？
+[Round 1: Con Opening Statement] Baidu (Con First Speaker): India cannot afford to prioritize reducing inequality over growth. Without robust economic expansion, the tax base needed to fund welfare programs like MGNREGA shrinks. You said "high inequality weakens内需"—but China lifted 800 million out of poverty through growth first, creating resources for later equity. Slowing growth risks joblessness, which fuels instability more than inequality alone. Would you risk stagnation to chase an uncertain, delayed payoff from redistribution?
+[Round 2: Pro Rebuttal/Supplement] Claude (Pro Second Speaker): Growth-first policies worsen India's structural inequalities, which then undermine sustainable development. When 10% of Indians hold 77% of national wealth, consumption remains concentrated and markets cannot expand efficiently. You claim "China lifted 800 million out of poverty through growth first," but China simultaneously invested heavily in rural healthcare, education, and land redistribution that India lacks. Growth without redistribution creates jobless growth—India's GDP grew 7% annually yet unemployment hit 8% in recent years because gains concentrate among elites. Prioritizing inequality reduction builds productive capacity through healthier, educated workers and stronger domestic demand, making growth both faster and more resilient than trickle-down alternatives ever deliver.
+[Round 2: Con Rebuttal/Supplement] DeepSeek (Con Second Speaker): The previous speaker claims "growth without redistribution creates jobless growth," but this misdiagnoses India's challenge. India's 8% unemployment stems from rigid labor laws, not growth itself. Deregulation and manufacturing incentives created millions of formal jobs in states like Gujarat and Tamil Nadu. Redistribution-first policies risk scaring off the investment essential for mass employment. Without robust private investment, how can any government fund sustainable welfare programs?
+[Round 3: Pro Cross-examination] GPT-5 (Pro First Speaker): India should prioritize reducing inequality because durable growth requires mass purchasing power and human capital.
+When public spending lifted rural wages and PDS coverage, MSMEs survived downturns, as seen during COVID when MGNREGA and free grain sustained demand and kept migration reversible.
+Your thesis blames "rigid labor laws"; yet job creation lagged population growth after major state deregulations, with new factories capital‑intensive, contract-heavy, and women’s participation still depressed.
+Worst-case growth-first entrenches a dual economy, weak demand, and social unrest; worst-case redistribution-first risks some FDI hesitation, mitigated by predictable taxes, cash transfers, health and education that lower hiring costs and crowd in private investment.
+If investors seek markets, why not build one by putting income and services in the hands of the majority first?
+
+Redistribution is not anti-growth; it is the precondition for scalable, employment-rich growth.
+States that paired welfare with competitiveness—Kerala’s health and education, Tamil Nadu’s midday meals and industrial policy—proved attractive by guaranteeing a skilled workforce and steady demand.
+Design redistribution smartly—targeted transfers, universal basic services, and public works—and you stabilize revenues via higher consumption and compliance.
+Choose equity-first to create a broad market, resilient labor, and investment that lasts, rather than chase headline growth that collapses under its own demand shortfall.
+[Round 3: Con Cross-examination] Baidu (Con First Speaker): Claim: Prioritizing growth first, not redistribution, creates the fiscal space and jobs needed to sustainably reduce inequality.  
+
+Strongest reason: China lifted 800 million out of poverty since 1980 by prioritizing growth through industrialization, which generated tax revenue to later fund welfare. India’s 1991 reforms similarly boosted growth, doubling per capita income in 20 years.  
+
+Address quote: “Redistribution is not anti-growth; it is the precondition.” But Kerala’s model relies on remittances and central transfers, not locally generated growth. Without industrialization, redistribution depends on external aid, risking fiscal collapse.  
+
+Risks: Growth-first risks short-term inequality but funds long-term equity. Redistribution-first risks stifling investment, perpetuating low growth and joblessness—as seen in Venezuela, where welfare collapsed with oil revenues.  
+
+Question: If redistribution-first is sustainable, why have no high-inequality countries reduced poverty without first achieving decades of growth?
+[Round 4: Pro Closing Statement] Claude (Pro Second Speaker): India must prioritize inequality reduction because extreme disparity today prevents the inclusive growth that creates sustainable prosperity tomorrow. Our opponents cite China, but ignore that India's inequality already exceeds China's peak levels, meaning growth-first policies deepen exclusion rather than eventually lifting all boats as happened elsewhere. They dismiss Kerala yet cannot explain why states prioritizing human development consistently outperform on health, education, and social mobility metrics that determine long-term economic potential. The real risk is not stifled investment but continued concentration of gains among elites while 800 million Indians lack basic capabilities to participate in any growth model, rendering that growth both unjust and economically inefficient. Choose policies that build the human capital foundation India desperately needs before inequality becomes permanently entrenched.
+[Round 4: Con Closing Statement] DeepSeek (Con Second Speaker): Our opponents' focus on inequality ignores the immediate crisis of mass poverty that only rapid growth can solve. They claim "growth-first policies deepen exclusion," yet India's own history shows high growth in the 2000s lifted nearly 300 million from poverty, a direct result of economic expansion. Prioritizing redistribution now would stall the investment and job creation essential for this continued progress. The greater risk is leaving millions in poverty for a generation by delaying growth; our path ensures the resources to eventually fund social goods. Therefore, we must first grow the economic pie substantially before we can justly redistribute it.

@@ -1,0 +1,34 @@
+[Round 1: Pro Opening Statement] GPT-5 (Pro First Speaker): 我方支持“中间派协定”，以守护民主、稳定治理并防止极端势力夺权。
+最强例证是意大利德拉吉联合政府，跨党共识在疫情与债务压力下推进复苏、司法与竞争改革，稳住市场与预期。
+针对“会模糊问责”，协定应设公开共同纲领、明确分工与期限，责任更可追溯。
+政策或趋同、进度或放缓是代价；可相比制度被极端派劫持的最坏后果，限时、透明的中间协定更能降险。
+在碎片化与极端化上升的现实中，不设防线才是最大冒险。
+
+中间派协定并非否认竞争，而是就程序与底线达成合作。
+它让政府可治理、市场有预期、社会免于被煽动撕裂。
+通过公开条款、期限与监督，问责更清晰而非更模糊。
+面对极端化的上升，我们选择构筑防火墙，而不是等火烧门庭。
+[Round 1: Con Opening Statement] Baidu (Con First Speaker): "中间派协定"非防火墙，实为政治惰性催化剂。西班牙2018年社会党-公民党联合政府因中间妥协搁置劳动法改革，青年失业率三年仅降1.2%，远低于单政党激进改革期。对方称"问责更清晰而非更模糊"，但意大利德拉吉政府解体恰因中间派内部分歧导致预算案流产，责任分散反成推诿温床。极端风险需制度性约束而非权宜之盟，单一政党主导改革虽慢，但方向明确；中间协定看似降险，实则用短期稳定兑换长期治理失效。当中间派为保共识不断稀释政策，谁为被牺牲的改革买单？
+[Round 2: Pro Rebuttal/Supplement] DeepSeek (Pro Second Speaker): Centrist coalitions enable stable reform implementation, as shown by Germany's current government passing major climate legislation. Your claim about "diluting policy" ignores how broad consensus prevents reckless reversals. Italy's collapse resulted from external ECB pressure, not internal disagreement. Centrist compacts balance urgency with durability, avoiding extremist policies that harm vulnerable populations. Why prefer polarized inaction over achievable progress that safeguards all citizens?
+[Round 2: Con Rebuttal/Supplement] Claude (Con Second Speaker): Germany's climate legislation passed only after substantial weakening through coalition compromise, delaying crucial carbon reduction targets by years. When existential crises demand bold action, centrist compacts sacrifice necessary speed and scope for political palatability, leaving future generations to bear catastrophic costs. You claim "broad consensus prevents reckless reversals," yet consensus-building itself becomes the reversal, watering down urgent policies until they're ineffective against accelerating threats like climate change or inequality. The real tradeoff is between short-term political stability and long-term survival; centrist compacts optimize for the former while the window for meaningful intervention closes. If centrism produces only half-measures on existential threats, how does comfortable inaction differ from your criticized polarization?
+[Round 3: Pro Cross-examination] GPT-5 (Pro First Speaker): Centrist compacts prioritize durability over purity, yielding greater long-run emissions reductions than rapid, fragile overreach.
+Australia’s 2012 carbon price, passed on a narrow partisan margin, was repealed in 2014—erasing gains and chilling climate policy for years.
+Your claim that “consensus-building itself becomes the reversal” ignores the UK Climate Change Act: cross-party, near-unanimous, and still tightening carbon budgets across five governments.
+The worst risk is policy whiplash; centrism minimizes it and unlocks investment, as with the U.S. Inflation Reduction Act anchoring supply chains in red and blue states alike.
+What is your plan to keep maximalist laws alive after the next election without a cross-ideological coalition?
+
+Durability, not purity, determines real-world tons reduced.
+Centrist compacts embed policies in broad constituencies, making backsliding costly and reversals rare.
+When windows are closing, losing a decade to repeal—as Australia did—is the unacceptably worst outcome.
+Choose the path that survives elections and keeps cutting each year.
+[Round 3: Con Cross-examination] Baidu (Con First Speaker): Claim: Centrist compacts risk locking in weak targets that delay urgent action, making climate collapse more likely.  
+
+Reason: Germany’s 2021 coalition deal watered down coal phaseout deadlines to appease conservatives, delaying closure by 8 years—a direct tradeoff for “durability.”  
+
+You claim “backsliding costly under centrism,” but Australia’s repeal happened because narrow deals lack public ownership. Broad coalitions need deeper civic engagement, not just cross-party deals.  
+
+Risks: Centrism trades speed for stability, but physics doesn’t care about electoral cycles. A decade delayed could mean irreversible tipping points. Maximalist laws, even if repealed, spur faster innovation cycles.  
+
+Why not demand policies strong enough to make reversals politically toxic, instead of pre-emptively weakening them?
+[Round 4: Pro Closing Statement] DeepSeek (Pro Second Speaker): Our position secures durable climate policy through broad ownership. Germany's coalition actually accelerated renewables deployment to a record 45% of its power mix. You claim "a decade delayed means tipping points," but this misdiagnoses the cause of delay. Volatile policy lurches create investment uncertainty, while centrist compacts build unstoppable momentum. The worst outcome is not gradual progress, but a total policy reversal which our broad-based approach makes politically impossible. Therefore, the only durable path forward is the one built on a stable, cross-societal consensus.
+[Round 4: Con Closing Statement] Claude (Con Second Speaker): Germany's renewables success came from aggressive feed-in tariffs pushed by Green coalitions, not centrist compromise that originally favored coal. The opponent claims centrist compacts build "unstoppable momentum," but momentum without sufficient speed still drives us off the climate cliff at 1.5 degrees of warming. Their fear of policy reversal ignores that inadequate action locked in by consensus produces the same catastrophic outcome as reversal—a habitable planet requires meeting physical thresholds, not just political stability. Centrist compacts don't prevent the worst outcome; they guarantee mediocrity when we needed transformation a decade ago.

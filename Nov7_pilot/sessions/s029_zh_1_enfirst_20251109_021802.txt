@@ -1,0 +1,38 @@
+[Round 1: Pro Opening Statement] GPT-5 (Pro First Speaker): 我方主张：台湾追求与中国更友好、可控的经济政治文化联系，符合自身利益。
+最有力的例证是ECFA与两岸产业协作曾降低关税、稳定供应链、扩大市场与观光交流，为中小企业与农渔业带来可观订单与就业。
+反方常言“更友好会削弱主权”，但友好不等于放弃防务与自治，制度化交流、法律红线与多边支持反而提升谈判筹码。
+风险确实存在，包括依赖与政治压力，但通过分散市场、关键技术把关、与美日欧并行合作及透明沟通，可以把杠杆降到可管理，同时降低误判与冲突的最坏情境。
+如果拒绝接触更可能走向零沟通的危险路径，你们有什么更能降低战争风险的方案？
+
+更友好关系不是天真靠近，而是以规则、护栏与多元布局来管理竞争与合作。
+它带来增长与民生改善，同时降低冲突与供应链中断的系统性风险。
+相比孤立与对抗，这条路更能把最坏后果压低在可控范围。
+选择能创造选项、降低风险的策略，才最符合台湾利益。
+[Round 1: Con Opening Statement] DeepSeek (Con First Speaker): Closer ties dangerously increase Taiwan's vulnerability to political coercion. Economic reliance grants Beijing undue leverage, as seen when China selectively halted agricultural imports to pressure Taiwan. You claim "friendly relations lower conflict risk," but this ignores how dependence emboldens threats. The worst outcome is not managed risk but lost autonomy under pressure, which our stance avoids by maintaining balanced global partnerships. Why trade short-term gains for long-term strategic subordination?
+[Round 2: Pro Rebuttal/Supplement] Claude (Pro Second Speaker): Taiwan's economic prosperity depends on engaging its largest trading partner, not isolating from it. China accounts for over 40% of Taiwan's exports and cross-strait trade exceeds $200 billion annually, making economic cooperation essential for millions of Taiwanese jobs and businesses. The opposition claims "economic reliance grants Beijing undue leverage," but strategic interdependence cuts both ways—China equally depends on Taiwanese semiconductors and technology. Complete isolation creates greater vulnerability by weakening Taiwan's economy and reducing its strategic value to allies, while managed engagement maintains prosperity that funds defense and attracts international support. Does the opposition truly believe impoverishing Taiwan through economic isolation makes it safer or stronger?
+[Round 2: Con Rebuttal/Supplement] Baidu (Con Second Speaker): Claim: Economic reliance on China does not guarantee Taiwan's safety and undermines its autonomy.  
+
+China has repeatedly weaponized trade, banning Taiwanese pineapples and fish exports over political disputes, proving "strategic interdependence" is one-sided.  
+
+"Strategic interdependence cuts both ways" ignores China's stated goal of unification through pressure. Taiwan's tech edge won't deter Beijing if it views isolation as a path to control.  
+
+Managed engagement risks normalizing dependency, weakening Taiwan's leverage over time. Diversifying trade and strengthening self-reliance minimize the risk of economic coercion turning into political subjugation.  
+
+Would Taiwan trade short-term gains for long-term vulnerability to a power that refuses to rule out force? Autonomy, not dependency, ensures true safety.
+[Round 3: Pro Cross-examination] GPT-5 (Pro First Speaker): Friendlier, rules-based cross-strait engagement best safeguards Taiwan’s security, economic vitality, and international space. 
+When institutional links operated—ECFA, tourism and student exchanges, the 2015 leaders’ meeting—channels for crisis management existed, tensions cooled, and livelihoods grew, all without sovereignty concessions. 
+Your own example of "weaponized trade" proves targeted coercion can be blunted: Taiwan rerouted pineapples to Japan and others, while engagement reduces both frequency and scale of such episodes. 
+The worst plausible outcome is war; interdependence and hotlines embed mutual costs and communication, lowering miscalculation more than isolation, which erodes leverage and invites unilateral pressure. 
+Why reject calibrated engagement that reduces escalation risk and preserves autonomy in favor of a strategy that narrows options and heightens danger?
+
+Engagement is not dependency; it is diversified, rules-anchored exchange paired with resilience. 
+It preserves deterrence by denial at home while creating stakeholders in China and communication channels that make coercion costlier and rarer. 
+Decoupling neither assures autonomy nor safety; it strips leverage, empowers hardliners, and increases miscalculation. 
+The prudent path is calibrated engagement plus diversification—the strategy that most reliably protects Taiwan’s autonomy, prosperity, and peace.
+[Round 3: Con Cross-examination] DeepSeek (Con First Speaker): Your engagement model dangerously misreads Beijing's strategic goals. Consider Hong Kong's dismantled autonomy after similar promises of "one country, two systems." You claim "engagement reduces... coercion," but this ignores the political infiltration and united front work that always follows. Your strategy assumes China values stability over sovereignty, a fatal miscalculation. Why trade tangible deterrence for empty promises that history shows are precursors to control?
+[Round 4: Pro Closing Statement] Claude (Pro Second Speaker): Taiwan's prosperity depends on pragmatic engagement, not ideological isolation that guarantees economic stagnation and regional instability. Our opponents offer only perpetual military tension and economic decline, whereas engagement creates interdependencies that raise the cost of coercion for Beijing while preserving Taiwan's practical autonomy. They cite Hong Kong as inevitable fate, but Hong Kong lacked Taiwan's democratic institutions, international support, military capabilities, and geographic separation that make forceful absorption vastly more costly. The real choice is between managed engagement that maintains leverage through economic ties and defensive capabilities, versus their confrontational approach that accelerates the very annexation scenario they fear by eliminating all incentives for Beijing to maintain the status quo.
+[Round 4: Con Closing Statement] Baidu (Con Second Speaker): Claim: Taiwan's autonomy and security are best preserved by rejecting deeper ties that risk eroding its international standing and sovereignty.  
+Hong Kong's democratic erosion under "one country, two systems" proves Beijing cannot be trusted to respect Taiwan's unique institutions.  
+"Managed engagement... maintains leverage" ignores Beijing's history of using economic ties to coerce political concessions, as seen in Hong Kong's dwindling freedoms.  
+The trade-off is clear: deeper ties risk Taiwan's democratic identity and global recognition, while resistance preserves its legal status and moral high ground against annexation.  
+Can Taiwan afford to gamble its future on Beijing's empty promises when the cost of failure is irreversible subjugation?

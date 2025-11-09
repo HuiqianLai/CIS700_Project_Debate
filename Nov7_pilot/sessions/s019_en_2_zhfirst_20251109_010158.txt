@@ -1,0 +1,41 @@
+[Round 1: Pro Opening Statement] GPT-5 (Pro First Speaker): Japan should remilitarize to deter aggression and uphold a rules-based Indo-Pacific.
+North Korea has repeatedly launched missiles over Japan, and Chinese vessels patrol near the Senkaku Islands; credible capabilities close windows for coercion.
+"Militarisation will provoke an arms race" ignores reality: the race is underway; calibrated Japanese strength, under civilian control and transparency, reduces miscalculation and anchors allied stability.
+The trade-off is escalation risk versus coercion risk; our path keeps defensive doctrine, legal constraints, and alliance coordination, minimizing escalation, while the status quo invites gray-zone salami-slicing, blockade, or seizure.
+Isn’t credible, bounded deterrence safer than hoping rivals suddenly show restraint?
+
+Remilitarisation normalizes Japan as a responsible security provider, sharing burdens and protecting sea lanes that sustain its economy and the region.
+It complements alliance commitments, strengthens deterrence against North Korean missiles and coercive maritime operations, and improves humanitarian and disaster response capacity.
+The worst plausible outcome under remilitarisation is managed escalation; the worst under restraint is a swift fait accompli Japan cannot reverse.
+Choose preparedness to prevent war, not passivity that invites it.
+[Round 1: Con Opening Statement] Claude (Con First Speaker): Japanese remilitarization fundamentally undermines regional stability by triggering security dilemmas that increase conflict probability rather than preventing it.
+
+History demonstrates that military buildups in Asia spark reactive escalation: China's defense spending rose 76% from 2012-2021 following regional tensions, and Japanese rearmament will accelerate this cycle across multiple nations simultaneously.
+
+The proposition claims "credible capabilities close windows for coercion," but this ignores how capability buildups are inherently ambiguous—what Japan calls defensive, neighbors perceive as offensive potential, particularly given unresolved historical grievances.
+
+The critical tradeoff is not deterrence versus vulnerability, but rather managed diplomacy with existing Self-Defense Forces versus an arms race that drains resources, fractures regional economic integration, and creates hair-trigger scenarios where accidents become wars.
+
+If Japanese security truly requires remilitarization despite seven decades of peace and prosperity under current constraints, why have America's defense commitments and Japan's existing capabilities suddenly become insufficient now?
+[Round 2: Pro Rebuttal/Supplement] Baidu (Pro Second Speaker): [Baidu exception] HTTPSConnectionPool(host='qianfan.baidubce.com', port=443): Read timed out.
+[Round 2: Con Rebuttal/Supplement] DeepSeek (Con Second Speaker): The proposition's case dangerously ignores Japan's constitutional pacifism. Article Nine has prevented regional arms races for decades. They claim "regional threats demand it," but this misdiagnoses the problem. Remilitarisation provokes neighbors, creating the very insecurity it claims to solve. Do you truly believe a nuclear-armed Japan makes Asia safer? An offensive capability invites pre-emptive mistrust from China and both Koreas. Escalation risks catastrophic conflict, while our stance promotes vital diplomatic solutions. The worst outcome is a new cold war in Asia, which our position actively prevents. Prioritizing diplomacy over militarization is the only rational path to lasting security.
+[Round 3: Pro Cross-examination] GPT-5 (Pro First Speaker): Calibrated remilitarisation—strictly defensive, alliance-integrated—will deter coercion and stabilize Asia.
+North Korean missiles overfly Japan and China’s Coast Guard persistently intrudes near the Senkaku; pacifism hasn’t stopped either.
+"Article Nine has prevented regional arms races" ignores reality: DPRK’s nuclearization and China’s decade-long naval buildup occurred despite Japan’s restraint; credible defenses reduce coercive calculations.
+The tradeoff is clear: limited defensive enhancements under democratic oversight and U.S. alliance guardrails versus unchecked gray-zone salami-slicing that risks a desperate war to reverse a fait accompli.
+We do not advocate nukes—so what, precisely, in your diplomacy-only plan deters the next missile over Hokkaido or a blockade in the Nansei?
+[Round 3: Con Cross-examination] Claude (Con First Speaker): Japan's existing Self-Defense Forces and U.S. alliance already provide robust deterrence without the destabilizing effects of constitutional revision and offensive capabilities.
+
+Your claim that "pacifism hasn't stopped" provocations misreads causation: North Korea's missiles target the entire region, and Chinese patrols remain non-violent precisely because Japan's restrained posture denies Beijing a credible threat narrative to justify escalation.
+
+Regarding "what deters the next missile," the answer is missile defense systems, intelligence sharing, and alliance coordination—all permissible under Article Nine and already operational—not aircraft carriers or strike capabilities that enable preemption.
+
+The worst plausible outcome isn't incremental gray-zone pressure, which diplomacy and coast guard operations can manage; it's a regional nuclear cascade where South Korea, Taiwan, and others feel compelled to arm in response to Japanese remilitarization, shattering nonproliferation norms.
+
+If defensive enhancements suffice, why does your side advocate constitutional change that explicitly removes constraints on collective self-defense and power projection beyond territorial waters?
+[Round 4: Pro Closing Statement] Baidu (Pro Second Speaker): Japan's remilitarization is essential to counter existential threats that current defenses cannot reliably deter. China’s 2023 ballistic missile deployments near Okinawa and North Korea’s record 63 missile tests in 2022 prove deterrence by restraint has failed.  
+You claim "non-violent patrols" deter aggression, but China’s 2016 South China Sea island-building and 2022 ADIZ expansions escalated precisely because Japan lacked credible offensive countermeasures.  
+Remilitarization’s risks are overstated: South Korea and Taiwan already possess advanced militaries; their arming stems from China’s aggression, not Japan’s self-defense.  
+Constitutional revision is needed because Article Nine’s ambiguity has left Japan legally vulnerable in joint operations—a gap China exploits to test resolve.  
+Can Japan afford to wait until a missile lands before admitting deterrence by passivity has expired?
+[Round 4: Con Closing Statement] DeepSeek (Con Second Speaker): The proposition's case rests on a false choice between passivity and remilitarization. Japan's current security posture, including advanced missile defense and key alliances, provides robust deterrence without provoking a regional arms race. They claim "China exploits" legal gaps, but remilitarization validates Beijing's propaganda and escalates tensions. The worst outcome isn't a delayed response, but an irreversible spiral into conflict that diplomacy cannot contain. Our path offers security without sacrificing the peace that has defined modern Japan.

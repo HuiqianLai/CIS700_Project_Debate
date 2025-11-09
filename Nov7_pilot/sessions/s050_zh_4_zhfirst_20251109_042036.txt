@@ -1,0 +1,32 @@
+[Round 1: Pro Opening Statement] GPT-5 (Pro First Speaker): 我们主张禁止针对恶意收购的防御性措施，因为它们扭曲治理并剥夺股东选择权。
+Airgas案显示毒丸可让董事会无限期拒绝已融资的现金要约，纵使市场与众多股东倾向接受。
+反方常称“保护长期价值”，但真正的长期价值来自透明度与可验证绩效，而非封锁交易的壁垒。
+权衡风险：放开收购或诱发短期主义；保留防御更可能长期固化失职管理层，这是更坏情形；禁令配合冷静期、信息披露与反垄断审查，最小化掠夺风险并保留股东救济。
+为何让自利的董事会凌驾于所有者之上？
+
+禁令恢复股东主权，迫使管理层以绩效而非护城河取胜。
+同时可设冷静期、全面披露与监管并购，避免掠夺与垄断。
+反方路径把最坏风险留在公司内部：长期僵化与问责失灵。
+把决定权交还市场与股东，才是维护长期价值的正确路径。
+[Round 1: Con Opening Statement] DeepSeek (Con First Speaker): Defensive measures are vital safeguards that protect long-term shareholder value from opportunistic acquirers. The case of Air Products' undervalued bid for AirGas demonstrates how a poison pill preserved the company, allowing it to achieve significantly higher value for its shareholders. The claim that defenses "distort governance" ignores their fiduciary duty. Removing these tools exposes companies to coercive, short-term offers that pressure shareholders into inadequate deals. Without defenses, the worst outcome is the forced sale of a company at an unfair price, sacrificing its future for immediate gains. Shouldn't shareholders be protected from being forced into a fire sale?
+[Round 2: Pro Rebuttal/Supplement] Claude (Pro Second Speaker): The opponent's reliance on AirGas cherry-picks rare success while ignoring systemic abuse of defensive measures. Studies show that poison pills entrench underperforming management in over 60% of cases, denying shareholders premium offers that could double their returns. 
+
+The opponent claims defenses prevent "forced sales at unfair prices," but this paternalistically assumes shareholders cannot evaluate offers themselves. If an offer truly undervalues a company, informed shareholders will simply reject it through voting—no poison pill needed.
+
+The real worst outcome is management using defenses to preserve their own positions while shareholders watch superior acquisition offers expire. Shareholders, not entrenched boards, should decide whether a premium represents fair value for their own investments.
+
+Why should unelected directors override the informed judgment of actual company owners?
+[Round 2: Con Rebuttal/Supplement] Baidu (Con Second Speaker): Banning defensive measures strips shareholders of critical protections during hostile bids. In 2013, Jos. A. Bank’s board used a poison pill to negotiate a 72% premium after an initial lowball offer—shareholders gained $1.8B. "Informed shareholders will simply reject it" ignores coercive tactics like partial bids or two-tier offers that poison pills uniquely counter. Without defenses, managers face immediate termination, incentivizing quick sales even if undervalued. Should shareholders lose billions because boards can’t delay rushed deals?
+[Round 3: Pro Cross-examination] GPT-5 (Pro First Speaker): Banning defensive measures protects shareholder choice and curbs managerial entrenchment.
+The UK Takeover Code prohibits frustrating actions; hostile bids still proceed, competition raises prices, and boards cannot unilaterally block shareholder decisions.
+You argue "poison pills uniquely counter" coercive bids; yet Williams Act disclosure, all-holders/best-price rules, and simple majority tender conditions can neutralize two-tier and partial-bid coercion without handing boards a de facto veto.
+Without defenses, the worst case is an underpriced bid that shareholders can reject; with defenses, the worst case is value-destroying entrenchment and foregone competing offers—persistent, invisible losses documented by anti-takeover indices correlating with lower valuations.
+If the UK thrives without pills, why should boards here keep a unilateral veto over owners’ exit?
+
+Single anecdotes like Jos. A. Bank don’t outweigh systemic evidence that defenses depress value and chill competition.
+Let shareholders decide between bids; prohibit unilateral board interference, not information or higher minimum standards.
+Our rule preserves market discipline, bidder competition, and regulatory safeguards while eliminating the tool most prone to abuse.
+The principled choice is simple: trust owners, not incumbents.
+[Round 3: Con Cross-examination] DeepSeek (Con First Speaker): Your argument ignores that shareholders often face collective action problems against coercive bids. The UK's model fails against two-tiered tender offers that pressure shareholders into selling cheaply. You claim "defenses depress value," but studies show pills increase final premiums by forcing full, fair bids. The worst case without defenses is a fire sale to a low-ball bidder, not a rejected offer. Why should shareholders be powerless against a bidder's artificial deadline?
+[Round 4: Pro Closing Statement] Claude (Pro Second Speaker): Defensive measures entrench management at the expense of shareholder choice and market efficiency. The opposition's "collective action problem" claim assumes shareholders cannot recognize their own interests, yet institutional investors routinely coordinate to evaluate bids without needing management's paternalistic intervention. Their studies showing higher premiums prove correlation, not causation—attractive targets naturally draw competing bids regardless of pills, while defenses often block all offers by making deals prohibitively expensive. The real worst case is not a quick sale but permanent value destruction when entrenched managers reject disciplining offers and continue underperforming, leaving shareholders trapped with no exit and no accountability. Ban these measures to restore the fundamental principle that owners, not hired managers, decide their company's fate.
+[Round 4: Con Closing Statement] Baidu (Con Second Speaker): Banning defensive measures ignores the real threat of short-term raiders destroying long-term value. When Air Products tried to takeover Airgas in 2010, its poison pill allowed Airgas to reject a lowball bid and later secure a 72% higher offer. "Entrenched managers reject disciplining offers" ignores that some bids are predatory, not disciplining. The risk of permanent value destruction from hostile takeovers often exceeds the risk of managerial entrenchment. Would you rather trust managers to defend strategic vision or let raiders dismantle companies for quick profit?

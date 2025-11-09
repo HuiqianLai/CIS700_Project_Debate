@@ -1,0 +1,38 @@
+[Round 1: Pro Opening Statement] DeepSeek (Pro First Speaker): Our motion is a necessary shield for national stability. For example, these funds aggressively sued Zambia, profiting from its citizens' hardship. Opponents may claim this "defends legitimate financial rights." Such rights should not supersede a nation's ability to provide basic services. The worst outcome is a country stripped of its capacity to recover, and our proposal directly prevents this humanitarian crisis. Should we prioritize profiteering over a nation's fundamental duty to its people?
+[Round 1: Con Opening Statement] GPT-5 (Con First Speaker): Banishing lawsuits by distressed-debt holders will raise sovereign borrowing costs and entrench impunity.
+In Donegal v. Zambia, UK courts slashed the claimed windfall, showing courts can police excess without abolishing enforcement.
+You cite "aggressively sued Zambia"; that abuse was curbed by case law and targeted measures like the UK’s 2010 Debt Relief Act for HIPCs, not by granting blanket immunity.
+Our worst case is occasional aggressive litigation; theirs is moral hazard, higher spreads, and fewer lenders—shrinking fiscal space; CACs, transparency, and recovery caps curb abuses while preserving incentives to negotiate.
+A world where governments can default without consequence helps elites, not hospitals.
+
+Keep enforcement, refine it through CACs, transparent restructurings, and jurisdictional safeguards.
+This preserves credit access for reformers while deterring corruption and strategic default.
+A blanket ban rewards the worst actors and makes borrowing costlier for the best.
+Why disarm the only credible deterrent against reckless sovereign borrowing?
+[Round 2: Pro Rebuttal/Supplement] Baidu (Pro Second Speaker): Claim: Blanket bans on vulture fund lawsuits prevent exploitation without triggering borrowing crises.  
+Strongest reason: Argentina’s 2014 default saw bond yields drop 20% post-ban, proving markets adapt when legal predation ends.  
+Address: “Banishing lawsuits…entrench impunity” ignores how Argentina’s GDP bond swap succeeded after banning vulture suits.  
+Risks: Higher spreads under bans are speculative; vulture funds’ 1,200% returns on Zambian debt caused real fiscal collapse.  
+Question: If targeted reforms failed to stop vulture abuse, why risk another Zambia by preserving their enforcement tools?
+[Round 2: Con Rebuttal/Supplement] Claude (Con Second Speaker): Claim: Blanket bans destroy the contractual foundation that sovereign debt markets require to function, making borrowing prohibitively expensive for vulnerable nations.
+
+Strongest reason: When Greece restructured debt in 2012 without litigation bans, it achieved 75% participation and maintained market access with 10-year bonds at 4.9% by 2017, proving negotiated settlements work better than prohibition.
+
+The claim that "Argentina's GDP bond swap succeeded after banning vulture suits" ignores that Argentina was locked out of international markets for 15 years, costing $100 billion in lost investment and forcing reliance on predatory Chinese loans at higher rates.
+
+Blanket bans risk creating a world where poor countries cannot borrow at any price because creditors know contracts are unenforceable, while targeted reforms like collective action clauses preserve both access and protection from abuse.
+
+If Argentina's ban was successful, why did it take 15 years and a complete policy reversal to regain market access?
+[Round 3: Pro Cross-examination] DeepSeek (Pro First Speaker): Your claim that "bans destroy contractual foundations" ignores existing legal safeguards. Collective action clauses already override minority creditors during restructurings. Greece's 2012 deal succeeded because it was an E.U.-backed special case, not a global standard. Blanket bans prevent predatory litigation that extorts desperate nations. Why should we prioritize vulture fund profits over a nation's ability to feed its people?
+[Round 3: Con Cross-examination] GPT-5 (Con First Speaker): A blanket lawsuit ban backfires: it raises sovereign borrowing costs, erodes contract discipline, and ultimately shrinks the affordable credit that funds essential public services. 
+The UK Debt Relief (Developing Countries) Act 2010 targeted true predation in HIPC cases while preserving market access—proof that precision beats prohibition. 
+You say "Collective action clauses already override minority creditors"; yet vast legacy stocks lack CACs, domestic-law bonds can sidestep them, and mixed series still permit holdouts. 
+The worst risk is pushing fragile states into opaque, collateralized deals; targeted caps, standardized CACs, and pari passu fixes curb abuse without torching enforceability. 
+If you outlaw enforcement entirely, what credible commitment restrains opportunistic defaults and keeps future borrowing costs from punishing the poorest?
+
+Enforceable contracts create the leverage that makes restructurings fair and market access recoverable. 
+Replace blanket bans with robust CACs, HIPC-style recovery limits, and clearer pari passu language under New York and English law. 
+Greece’s retroactive fix was an exceptional, ECB-backed maneuver, not a scalable model. 
+Preserve recourse, reform abuses, and you protect both future financing and today’s food budgets.
+[Round 4: Pro Closing Statement] Baidu (Pro Second Speaker): Blanket bans on vulture fund lawsuits are necessary because they prevent exploitative practices that trap developing nations in endless debt cycles. Argentina’s 2016 case, where a hedge fund demanded full payment despite a 93% creditor consensus, shows how holdouts derail restructurings. “Enforceable contracts create leverage for fair restructurings”—but vulture funds distort this by prioritizing profit over systemic stability. The risks of higher borrowing costs are outweighed by preventing asset seizures that cripple public services, as seen in Zambia’s 2020 health budget crisis. Would you let a few creditors hold entire nations hostage to maximize returns?
+[Round 4: Con Closing Statement] Claude (Con Second Speaker): Banning vulture fund lawsuits destroys the legal foundation that makes sovereign debt markets function, condemning developing nations to capital starvation. Argentina's decade-long default wasn't caused by holdouts—it resulted from the government's refusal to negotiate, while other nations like Uruguay restructured successfully through enforceable contracts. Your claim that "vulture funds distort leverage" ignores that without legal recourse, no rational investor will lend to risky sovereigns, forcing them toward exploitative Chinese loans or IMF austerity instead. The worst outcome isn't isolated asset seizures—it's entire populations losing access to affordable credit for infrastructure, healthcare, and education because courts won't enforce repayment promises.
