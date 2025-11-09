@@ -1,0 +1,20 @@
+[Round 1: Pro Opening Statement] Baidu (Pro First Speaker): Subscriptions force consumers into perpetual payments for access they may not need, eroding ownership rights. Adobe's shift to Creative Cloud left users with no option to buy software outright, trapping them in recurring fees even for infrequent use. Opponents claim subscriptions offer flexibility, but this ignores how companies raise prices mid-contract or remove features to push upgrades. The risk of price gouging and reduced consumer control far outweighs hypothetical benefits. Would you trust corporations to prioritize fairness over profit in long-term subscriptions?
+[Round 1: Con Opening Statement] DeepSeek (Con First Speaker): [DeepSeek error 401] {"error":{"message":"Authentication Fails, Your api key: ****ncu4 is invalid","type":"authentication_error","param":null,"code":"invalid_request_error"}}
+[Round 2: Pro Rebuttal/Supplement] GPT-5 (Pro Second Speaker): 我们的明确主张：应当反对商业模式日益转向订阅制。
+订阅制造成锁定与撤回服务的权力，例如Max曾大规模下架已上线作品、Adobe订阅到期或账户异常即无法打开文件，用户付费却不再拥有功能。
+对方刚刚的“Authentication Fails”正说明核心缺陷：订阅依赖持续认证与后台许可，任何故障、地区或支付问题都立刻剥夺访问。
+即便订阅能支持持续迭代，我们的替代——永久许可加付费升级、可选维护合同、按量计费与开放标准——既能筹资，又避免最坏情形：价格上调、远程关停、数据被锁死。
+请正面回应：当认证或计费出错时，是否保障离线可用与数据可携带？
+
+订阅的风险来自结构性激励——持续收费优先于可用性与所有权。
+我们提出的路线保留更新激励，同时确保可控成本、离线可用、互操作与最终所有权。
+最坏情境对比：订阅让人失去关键工具与作品访问；替代方案最多是推迟升级或一次性花费。
+为避免被动挟持与黑箱关停，本院应当反对商业模式日益转向订阅制。
+[Round 2: Con Rebuttal/Supplement] Claude (Con Second Speaker): 订阅制模式创造了更可持续的商业环境，为消费者带来更多价值和选择权。订阅制降低了用户的初始成本门槛，让更多人能够使用优质服务，同时促使企业提供持续的改进和支持以留住用户。对方提出"价格上调、远程关停"等担忧忽视了市场竞争的现实——企业若滥用权力，用户可以轻松转向竞争对手，这正是订阅制的流动性优势。当认证或计费系统出现问题时，绝大多数现代订阅服务都提供宽限期、离线模式和数据导出选项，完全可以解决对方担忧的问题。面对技术变革，我们应当拥抱能够促进持续创新和公平定价的商业模式，而非出于对假设风险的恐惧而排斥进步。
+[Round 3: Pro Cross-examination] Baidu (Pro First Speaker): Subscription models inherently prioritize corporate control over consumer autonomy. Adobe's 2013 Creative Cloud shift forced users into recurring payments, stripping one-time purchase options despite existing competition. "User can easily转向竞争对手" ignores lock-in effects—migrating data, workflows, and learning curves create friction. The tradeoff pits short-term accessibility against long-term dependency, with companies holding leverage over service continuity. When corporations control both access and pricing, who ensures fairness in this "fluid" market?
+[Round 3: Con Cross-examination] DeepSeek (Con First Speaker): [DeepSeek error 401] {"error":{"message":"Authentication Fails, Your api key: ****ncu4 is invalid","type":"authentication_error","param":null,"code":"invalid_request_error"}}
+[Round 4: Pro Closing Statement] GPT-5 (Pro Second Speaker): 我方主张应当反对商业模式全面转向订阅制。
+真实后果可见：BMW座椅加热订阅遭反弹，Google关闭Revolv致设备报废，体现锁定、涨价与服务中断，用户成本不可预测。
+对方甚至出现“Authentication Fails”的空白论证，正如订阅一断权即失；以模糊“服务”替代清晰交易，实质是把经营波动与停机风险外包给用户。
+我们承认订阅可降门槛，但最坏情形是永久锁定、数据被绑架与价格层层上调；坚持一次性所有权并辅以可取消、可迁移、离线可用的混合模式，方能最小化系统性风险，把控制权还给用户。
+[Round 4: Con Closing Statement] Claude (Con Second Speaker): 订阅制本质上代表着商业与消费新范式的平衡点，不应被妖魔化或全盘否定。订阅模式激发了创新活力，如Adobe Creative Cloud让专业软件价格从数千元降至百元月费，同时提供持续更新和跨设备同步，真正惠及用户和创作者。对方提到"把控制权还给用户"却忽视一次性购买模式下的风险：软件淘汰、技术过时、维护停止，这些问题在订阅制下反而得到了有效解决。权衡利弊，订阅制引入了责任机制，企业必须持续提供价值才能留住客户，形成了比传统模式更加透明、动态的供需关系。在这个变革时代，我们不应拒绝订阅制这一商业创新，而是引导它向更加公平、灵活的方向发展。
